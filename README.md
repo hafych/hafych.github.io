@@ -1,6 +1,6 @@
 # Terms of Use and Privacy Policy
 
-**Last Updated:** April 18, 2026
+**Last Updated:** April 24, 2026
 
 **Effective Date:** April 9, 2026
 
@@ -74,7 +74,7 @@ You must not use the Apps:
 * to harass, threaten, stalk, dox, abuse, exploit, or harm others;
 * to interfere with devices, users, peers, relays, networks, servers, platforms, or communications infrastructure;
 * for emergency, life-safety, medical, military, aviation, nuclear, critical infrastructure, or other high-risk use cases where malfunction could lead to death, injury, or severe damage;
-* if you are located in, ordinarily resident in, organized in, owned or controlled by, or acting on behalf of any person, territory, or organization subject to sanctions or export restrictions, to the extent prohibited by applicable law.
+* if you are located in, ordinarily resident in, organized under the laws of, owned or controlled by, or acting on behalf of any person, entity, territory, country, government, or organization subject to sanctions or export restrictions, to the extent prohibited by applicable law.
 
 We may investigate suspected violations and may suspend, restrict, disable, or terminate access immediately, with or without notice.
 
@@ -407,7 +407,7 @@ To the maximum extent permitted by applicable procedural law, the parties agree 
 If the dispute contains a foreign element and is arbitrable under applicable law, it shall be finally resolved by the **International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry (ICAC at the UCCI)** in accordance with its Rules.
 
 The seat of arbitration shall be **Kyiv, Ukraine**.
-The language of the arbitration shall be **Ukraine**, unless we agree otherwise in writing.
+The language of the arbitration shall be **Ukrainian**, unless we agree otherwise in writing.
 The number of arbitrators shall be **one**, unless the applicable Rules require otherwise.
 The substantive law governing the dispute shall be the **law of Ukraine**, excluding conflict-of-laws rules to the extent permitted by law.
 
