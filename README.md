@@ -1,4 +1,6 @@
-Terms of Use and Privacy Policy
+<a id="terms-of-use"></a>
+
+# Terms of Use and Privacy Policy
 
 Last Updated: June 23, 2026
 Effective Date: April 9, 2026
@@ -191,7 +193,9 @@ To the maximum extent permitted by law, all amounts payable by you shall be paid
 
 ⸻
 
-Privacy Policy
+<a id="privacy-policy"></a>
+
+## Privacy Policy
 
 8. Privacy Policy Overview
 
