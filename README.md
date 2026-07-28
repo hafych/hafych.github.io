@@ -6,12 +6,14 @@ permalink: /
 
 # HAFYCH Legal Documents
 
-**Version 1.1 — Last Updated and Effective: 28 July 2026**
+**Version 1.2 — Last Updated and Effective: 28 July 2026**
 
-These public documents apply to Writer Studio and other HAFYCH Apps as stated
-in the text. They distinguish Consumer rights from additional Business User
-terms. Mandatory rights under applicable law are not excluded.
+These public documents apply to AllPDF, Writer Studio, and other HAFYCH Apps
+as stated in the text. They distinguish Consumer rights from additional
+Business User terms. Mandatory rights under applicable law are not excluded.
 
+[AllPDF product and privacy page](/allpdf/) ·
+[Русская версия страницы AllPDF](/allpdf/ru/) ·
 [Writer Studio product page](/writer-studio/) ·
 [Business-to-Business Data Processing Addendum](/dpa/) ·
 [Privacy Policy](#privacy-policy) ·
@@ -63,7 +65,7 @@ Google, Apple, another app store, RevenueCat, or another provider may distribute
 
 - “User Content” means files, text, notes, documents, images, audio, settings, metadata, prompts, credentials, keys, exports, backups, and other material selected, created, stored, opened, imported, exported, synchronized, or otherwise handled by a user through an App.
 
-- “Third-Party Service” includes Google Play, Google Drive, Apple file services, RevenueCat, GitHub Pages, operating systems, device manufacturers, payment providers, networks, and other external services used by or connected to an App.
+- “Third-Party Service” includes Google Play, Google Drive, Dropbox, a user-selected AI provider, Apple file services, RevenueCat, GitHub Pages, operating systems, device manufacturers, payment providers, networks, and other external services used by or connected to an App.
 
 These Terms apply to all Apps unless App-specific terms expressly override a provision. A separately signed written agreement controls only to the extent it expressly identifies and overrides these Terms.
 
@@ -165,9 +167,9 @@ You retain any rights you lawfully hold in User Content. You grant HAFYCH only t
 
 Based on the current architecture described by the Provider, HAFYCH does not operate its own backend server for storing ordinary User Content and does not maintain a HAFYCH user-account database. Content may remain on your device or be sent directly to a user-selected Third-Party Service. HAFYCH generally cannot view, retrieve, restore, decrypt, or delete content that it never receives or controls.
 
-### 6.3 Google Drive and Other User-Selected Storage
+### 6.3 Google Drive, Dropbox, and Other User-Selected Storage
 
-Where an App offers Google Drive or lets you select a folder or file provider exposed by the operating system, files and related metadata may be handled directly between the App, device, operating system, and selected provider. On Apple platforms this can include an iCloud Drive folder only when the operating system exposes it and you select it; Writer Studio does not operate a separate CloudKit or iCloud service. Provider permissions, authentication tokens, file references, synchronization data, and file contents are governed by the relevant feature and provider. HAFYCH does not receive those files on a HAFYCH server unless you separately send them for support.
+Where an App offers Google Drive or Dropbox, or lets you select a folder or file provider exposed by the operating system, files and related metadata may be handled directly between the App, device, operating system, and selected provider. Connecting a provider does not authorize an automatic upload: AllPDF uploads a result only after the user selects a cloud destination and confirms that transfer. On Apple platforms a user-selected folder can include iCloud Drive when the operating system exposes it; HAFYCH does not operate a separate CloudKit or iCloud content service. Provider permissions, authentication tokens, file references, synchronization data, and file contents are governed by the relevant feature and provider. HAFYCH does not receive those files on a HAFYCH content server unless you separately send them for support.
 
 ### 6.4 Backups and Deletion
 
@@ -179,7 +181,7 @@ An App may technically allow you to store or handle information that is personal
 
 ## 7. Third-Party Services
 
-The Apps may depend on or interoperate with Third-Party Services, including Google Play, RevenueCat, Google Drive, operating-system file providers, device manufacturers, networks, and GitHub Pages. Third parties control their own availability, security, policies, fees, processing locations, retention, and technical changes. HAFYCH does not control and is not responsible for a Third-Party Service outside HAFYCH’s reasonable control.
+The Apps may depend on or interoperate with Third-Party Services, including Google Play, RevenueCat, Google Drive, Dropbox, user-selected AI providers, operating-system file providers, device manufacturers, networks, and GitHub Pages. Third parties control their own availability, security, policies, fees, processing locations, retention, and technical changes. HAFYCH does not control and is not responsible for a Third-Party Service outside HAFYCH’s reasonable control.
 
 You must comply with applicable Third-Party Service terms. A third party may suspend, change, restrict, or discontinue a service, which may impair an App. HAFYCH is not obligated to replace or maintain compatibility with a discontinued or changed service unless mandatory law or a separately signed agreement requires it.
 
@@ -187,7 +189,7 @@ You must comply with applicable Third-Party Service terms. A third party may sus
 
 ### 8.1 Purchase Infrastructure
 
-Writer Studio premium features are currently offered through Google Play and RevenueCat-supported entitlement infrastructure. The purchase screen must show the localized total price, billing period, automatic-renewal terms, trial terms when eligible, and a cancellation route before the user starts the Google Play purchase flow. RevenueCat validates purchase tokens and communicates subscription and entitlement status to the App. HAFYCH generally does not receive a full payment-card number, CVV, or complete bank-account credentials.
+AllPDF and Writer Studio premium features are currently offered through Google Play and RevenueCat-supported entitlement infrastructure. The purchase screen must show the localized total price, billing period, automatic-renewal terms, trial terms when eligible, and a cancellation route before the user starts the Google Play purchase flow. RevenueCat validates purchase tokens and communicates subscription and entitlement status to the App. HAFYCH generally does not receive a full payment-card number, CVV, or complete bank-account credentials.
 
 ### 8.2 Auto-Renewal and Cancellation
 
@@ -511,7 +513,7 @@ An organization using an App for its own purposes normally determines why and ho
 
 ### 2.3 Independent Third Parties
 
-Google, Apple, RevenueCat, Google Drive, GitHub, operating-system file providers, device manufacturers, and other providers may act as processors, service providers, or independent controllers depending on the service and legal context. Their own privacy notices govern processing they independently determine.
+Google, Apple, RevenueCat, Google Drive, Dropbox, a user-selected AI provider, GitHub, operating-system file providers, device manufacturers, and other providers may act as processors, service providers, or independent controllers depending on the service and legal context. Their own privacy notices govern processing they independently determine.
 
 ## 3. Current Data Architecture
 
@@ -519,13 +521,15 @@ Google, Apple, RevenueCat, Google Drive, GitHub, operating-system file providers
 
 2. No HAFYCH content backend. HAFYCH does not operate a server that stores ordinary User Content.
 
-3. Local or user-selected storage. Content may remain on the device, be sent directly to Google Drive, or be stored in a folder or file provider that the user selects through the operating system.
+3. Local or user-selected storage. Content may remain on the device, be sent directly to Google Drive or Dropbox after a user-confirmed transfer, or be stored in a folder or file provider that the user selects through the operating system.
 
-4. Subscription infrastructure. RevenueCat and the relevant app store may process purchase history, App User IDs, receipts or purchase tokens, entitlement status, and technical metadata.
+4. Optional AI transfer. AllPDF can send a bounded amount of extracted document text—not the PDF file itself—to the AI provider selected and configured by the user, but only after the user invokes an AI action and confirms the document-specific transfer.
 
-5. Direct support. HAFYCH may receive email, attachments, screenshots, or diagnostic information only when a person contacts support or sends a legal or privacy request.
+5. Subscription infrastructure. RevenueCat and the relevant app store may process purchase history, App User IDs, receipts or purchase tokens, entitlement status, and technical metadata.
 
-6. Static Website. The Website is hosted through GitHub Pages; GitHub may process request and security data under its own terms.
+6. Direct support. HAFYCH may receive email, attachments, screenshots, or diagnostic information only when a person contacts support or sends a legal or privacy request.
+
+7. Static Website. The Website is hosted through GitHub Pages; GitHub may process request and security data under its own terms.
 
 The absence of a HAFYCH backend does not mean that no data leaves a device. App stores, RevenueCat, selected cloud providers, operating systems, and network providers may process data needed for their functions.
 
@@ -535,15 +539,15 @@ The absence of a HAFYCH backend does not mean that no data leaves a device. App 
 
 Depending on the App, local User Content may include files, notes, text, settings, metadata, documents, images, audio, exports, backups, or other material selected by the user. HAFYCH does not receive ordinary local content merely because the App stores or displays it. Local content remains under the control of the device, operating system, user, and any selected storage provider.
 
-### 4.2 Google Drive and User-Selected File Providers
+### 4.2 Google Drive, Dropbox, and User-Selected File Providers
 
-When a user enables Google Drive or chooses a folder or file provider through the operating system, the App and provider may process selected file contents, names, identifiers, folder references, metadata, timestamps, synchronization status, authorization scopes, tokens, and error information necessary for the requested action. Google Drive uses the narrow drive.file scope. A folder exposed by an Apple operating system can be backed by iCloud Drive, but Writer Studio has no separate CloudKit or iCloud entitlement. Transfers occur directly between the device and selected provider; HAFYCH has no content server that receives the file.
+When a user enables Google Drive or Dropbox, or chooses a folder or file provider through the operating system, the App and provider may process selected file contents, names, identifiers, folder references, metadata, timestamps, synchronization status, authorization scopes, tokens, and error information necessary for the requested action. Google Drive uses the narrow `drive.file` scope. AllPDF never treats connection as upload authorization: a result file is read and uploaded only after the user selects the provider and confirms the transfer. A folder exposed by an Apple operating system can be backed by iCloud Drive, but the current Apps have no separate HAFYCH CloudKit content backend. Transfers occur directly between the device and selected provider; HAFYCH has no content server that receives the file.
 
 ### 4.3 RevenueCat Subscription and Entitlement Data
 
 RevenueCat may process an App User ID assigned by its SDK or provided by the App, purchase history, product identifiers, store, subscription status, entitlement status, trial status, renewal, cancellation, expiration, refund and transaction events, receipt or purchase-token information, currency, locale, country or region, App version, platform version, SDK version, and timestamps. HAFYCH may access customer and transaction views in the RevenueCat dashboard for entitlement support, purchase analytics, fraud prevention, and product operation.
 
-HAFYCH does not operate its own user-account system and does not require a name, email address, or telephone number to create a HAFYCH account. The inspected Writer Studio release configuration uses an automatically generated anonymous RevenueCat App User ID, does not set RevenueCat Customer Attributes or advertising identifiers, has no third-party analytics or attribution integration, and intentionally has no application webhook because there is no HAFYCH backend. Google Play RTDN is connected to RevenueCat for subscription-state updates. Store declarations must be updated if this configuration changes.
+HAFYCH does not operate its own user-account system and does not require a name, email address, or telephone number to create a HAFYCH account. The inspected AllPDF and Writer Studio release configurations use automatically generated anonymous RevenueCat App User IDs, do not set RevenueCat Customer Attributes or advertising identifiers, and have no third-party analytics or attribution integration. There is no application webhook because there is no HAFYCH subscription backend; Google Play real-time developer notifications are connected directly to RevenueCat for subscription-state updates. Store declarations must be updated if this configuration changes.
 
 ### 4.4 Google Play and Future Apple Purchases
 
@@ -561,11 +565,13 @@ The Website is hosted at https://hafych.github.io/ using GitHub Pages. GitHub an
 
 An App, operating system, app store, or embedded provider may process App version, package or bundle identifier, device type, operating-system version, locale, region, timestamps, installation or App-instance identifiers, network information, and error or performance information necessary to operate the App, enforce purchases, or provide a selected feature. HAFYCH does not state that every listed data type is collected by every App.
 
-Writer Studio keeps a limited list of diagnostic and UX events in local memory for the current App session and may print them to debug logs in a debug build. The current release does not send those events to a HAFYCH analytics backend. RevenueCat separately processes subscription and purchase analytics as described above.
+An App may keep limited diagnostic or UX events locally for the current App session and may print them to debug logs in a debug build. The current releases do not send those events to a HAFYCH analytics backend. RevenueCat separately processes subscription and purchase analytics as described above.
 
-### 4.8 AI Prompts and System Clipboard
+### 4.8 AI Prompts and User-Selected Providers
 
-The current Writer Studio editor AI actions create copy-ready prompts and place them on the device’s system clipboard. They do not automatically send manuscript text to HAFYCH, OpenAI, or another AI provider. Clipboard content is controlled by the operating system and user; it leaves the device only if the user pastes or otherwise sends it to an external service. Any future built-in transmission to an AI provider requires an updated disclosure before activation.
+Writer Studio editor AI actions create copy-ready prompts and place them on the device’s system clipboard. They do not automatically send manuscript text to HAFYCH, OpenAI, or another AI provider. Clipboard content is controlled by the operating system and user; it leaves the device only if the user pastes or otherwise sends it to an external service.
+
+AllPDF lets the user configure OpenAI, Anthropic, or an OpenAI-compatible endpoint. Selecting a PDF remains local and does not start a network request. On the first AI action for each selected document, AllPDF identifies the provider and host, states the exact character count, and requests confirmation. If confirmed, AllPDF sends only the bounded extracted text needed for that action; the PDF file itself is not sent through the AI flow. The selected provider independently controls its processing, retention, model-improvement, security, and international transfers under the user’s relationship with that provider. API credentials entered by the user are stored through the device’s secure-storage facility where supported and are not sent to HAFYCH.
 
 ### 4.9 Permissions
 
@@ -616,7 +622,9 @@ HAFYCH may disclose limited personal data only where necessary and lawful to:
 
 - Google Play or Apple for distribution, purchase, subscription, refund, tax, platform, security, and compliance functions;
 
-- Google, Apple, Google Drive, or another user-selected operating-system file provider to perform a feature the user requests;
+- Google, Apple, Google Drive, Dropbox, or another user-selected operating-system file provider to perform a feature the user requests;
+
+- OpenAI, Anthropic, or a user-configured OpenAI-compatible provider when the AllPDF user explicitly confirms an AI text request;
 
 - Google or an email provider to receive and respond to support, privacy, security, or legal email;
 
@@ -637,7 +645,8 @@ RevenueCat, Google, Apple, GitHub, cloud providers, and other Third-Party Servic
 | **Category** | **Typical retention / control** |
 | --- | --- |
 | Local User Content | Until the user deletes it, clears App data, resets the device, or uninstalls the App; exported and backup copies may remain elsewhere. |
-| Google Drive or user-selected provider folder | Controlled by the user and provider. Deleting from the App may not delete the provider copy; deletion must also be performed through the provider. |
+| Google Drive, Dropbox, or user-selected provider folder | Controlled by the user and provider. Deleting from the App may not delete the provider copy; deletion must also be performed through the provider. |
+| AI request text | Controlled primarily by the user-selected provider under its terms and the user’s configuration. AllPDF does not store the transmitted text on a HAFYCH backend. |
 | RevenueCat purchase and entitlement data | Retained under RevenueCat and app-store policies and as needed for entitlement, refund, fraud, tax, legal, and support purposes. HAFYCH may request deletion of a RevenueCat customer record where legally appropriate and technically identifiable. |
 | Support and ordinary correspondence | Ordinarily up to three years after the request is closed; longer where needed for a legal hold, repeated abuse, or an unresolved dispute. |
 | Legal notices and dispute records | Up to six years after final resolution, or longer where a mandatory limitation, enforcement, tax, or records rule requires it. |
@@ -646,7 +655,7 @@ RevenueCat, Google, Apple, GitHub, cloud providers, and other Third-Party Servic
 
 ### 9.1 Deletion Requests
 
-You may request deletion of personal data controlled by HAFYCH by emailing nazariihafych@gmail.com with the subject “PRIVACY REQUEST.” HAFYCH may ask for information reasonably necessary to identify the relevant support record, transaction, or RevenueCat App User ID. HAFYCH cannot delete data it does not possess or control, including local files, user-controlled backups, Google Drive files, copies in a user-selected provider folder, app-store records, or provider data retained under the provider’s own legal obligations.
+You may request deletion of personal data controlled by HAFYCH by emailing nazariihafych@gmail.com with the subject “PRIVACY REQUEST.” HAFYCH may ask for information reasonably necessary to identify the relevant support record, transaction, or RevenueCat App User ID. HAFYCH cannot delete data it does not possess or control, including local files, user-controlled backups, Google Drive or Dropbox files, AI-provider records, copies in a user-selected provider folder, app-store records, or provider data retained under the provider’s own legal obligations.
 
 Because there is no HAFYCH user account, there is currently no HAFYCH account to delete. Users delete local data through App or device controls and delete cloud data through the selected provider. Purchase records may remain with Google, Apple, RevenueCat, tax authorities, or other providers where legally required.
 
@@ -736,7 +745,9 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 | --- | --- | --- | --- | --- |
 | Local App use | User-selected content, settings, local metadata, files depending on App | Device and operating-system storage; HAFYCH does not receive ordinary content | Provide the selected App function | User deletes through App/device; uninstall may not delete exports or backups |
 | Google Drive | Selected file contents, names, identifiers, metadata, authorization and sync information | Directly to Google Drive through device/provider integration; no HAFYCH content server | Open, save, import, export, sync, or back up as selected by user | User revokes access and deletes files through Google account/provider |
+| Dropbox | A result file selected for upload, its name and transfer metadata, authorization and error information | Directly to Dropbox after the user selects Dropbox and confirms the transfer; no HAFYCH content server | Save a completed AllPDF result at the user’s request | User disconnects the provider and deletes the file through Dropbox |
 | User-selected folder / operating-system file provider | Selected file contents, names, identifiers, metadata and sync information where the operating system exposes the folder | Directly through the device and selected provider; an Apple-selected folder may be backed by iCloud Drive; no HAFYCH content server | Open, save, import, export, or sync as selected by the user | User manages the folder and provider through operating-system/provider controls |
+| AllPDF AI request | A bounded amount of extracted text, provider/host, request parameters and technical error information; the PDF itself is not sent by this flow | OpenAI, Anthropic, or the OpenAI-compatible host selected by the user, only after document-specific confirmation | Perform the specific AI action requested by the user | User controls the provider account and provider-side deletion/retention; HAFYCH has no copy on an HAFYCH backend |
 | RevenueCat | App User ID; purchase history; product, transaction, subscription, trial, entitlement, refund and status information; app/platform/locale metadata | RevenueCat systems; HAFYCH may view dashboard data | Purchase validation, entitlements, fraud prevention, subscription analytics, support | Request through HAFYCH where record can be identified; provider and store retention may continue |
 | Google Play | Google account and payment data held by Google; product, order, receipt/purchase token, subscription and refund status available to App/providers | Google systems; limited transaction/status data to HAFYCH or RevenueCat | Distribution, payment, tax, subscription, refund, security, entitlement | Managed through Google account and Google Play; mandatory records may remain |
 | Support email | Email address, message, attachments, screenshots, App/device/purchase details voluntarily supplied | Google email infrastructure and Nazarii Hafych | Support, privacy, legal, security, billing, and dispute handling | Ordinarily retained up to three years; legal records longer as stated in Policy |
@@ -745,7 +756,7 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 
 ## 3. RevenueCat Configuration Statement
 
-The inspected Writer Studio release code configures RevenueCat without a custom App User ID, so RevenueCat assigns an anonymous App User ID. The code does not call logIn, setEmail, setPhoneNumber, setDisplayName, setAttributes, or collect advertising identifiers. The current project has no third-party analytics or attribution integration and no application webhook; Google Play RTDN is connected directly to RevenueCat. The configured entitlement is pro and the current offering contains monthly and annual packages.
+The inspected AllPDF and Writer Studio release code configures RevenueCat without a custom App User ID, so RevenueCat assigns an anonymous App User ID. The code does not call logIn, setEmail, setPhoneNumber, setDisplayName, setAttributes, or collect advertising identifiers. The current projects have no third-party analytics or attribution integration and no application webhook; Google Play RTDN is connected directly to RevenueCat. Each project uses the `pro` entitlement and is intended to expose monthly and annual packages through its current offering.
 
 For the current configuration, the Google Play Data safety declaration must include purchase history collected for App functionality and analytics. Personal information and advertising/device identifiers are not introduced by the inspected RevenueCat integration. This conclusion must be rechecked whenever the SDK, release code, RevenueCat project, or provider integrations change.
 
@@ -755,7 +766,7 @@ No HAFYCH account is created, so a HAFYCH account-deletion flow is not applicabl
 
 - delete local data through App or device controls;
 
-- delete cloud data and revoke provider access through Google Drive or the selected operating-system file provider;
+- delete cloud data and revoke provider access through Google Drive, Dropbox, or the selected operating-system file provider;
 
 - manage or cancel subscriptions through Google Play; and
 
@@ -763,7 +774,7 @@ No HAFYCH account is created, so a HAFYCH account-deletion flow is not applicabl
 
 ## 5. Device Permissions
 
-The inspected Android manifest declares microphone access for the user-invoked dictation feature; network access is supplied through the platform and provider libraries used for Google Drive, Google Sign-In, RevenueCat, and Google Play. No advertising permission or broad Android all-files permission is declared. Each permission must remain limited to the feature the user requests, be explained by the operating system and store documentation, and be rechecked in the final merged release manifest before every publication.
+The inspected Writer Studio Android manifest declares microphone access for its user-invoked dictation feature. AllPDF’s released Android manifest does not request microphone, advertising-ID, or broad all-files access. Network access is supplied through the platform and provider libraries used for user-invoked Google Drive, Dropbox, AI, RevenueCat, and Google Play functions. Each permission must remain limited to the feature the user requests, be explained by the operating system and store documentation, and be rechecked in the final merged release manifest before every publication.
 
 ## 6. Security and Responsibility
 
