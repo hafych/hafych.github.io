@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HAFYCH Legal Documents
+permalink: /
 ---
 
 # HAFYCH Legal Documents
