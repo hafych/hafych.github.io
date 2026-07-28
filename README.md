@@ -1,944 +1,773 @@
+---
+layout: default
+title: HAFYCH Legal Documents
+---
+
+# HAFYCH Legal Documents
+
+**Version 1.1 — Last Updated and Effective: 28 July 2026**
+
+These public documents apply to Writer Studio and other HAFYCH Apps as stated
+in the text. They distinguish Consumer rights from additional Business User
+terms. Mandatory rights under applicable law are not excluded.
+
+[Writer Studio product page](/writer-studio/) ·
+[Business-to-Business Data Processing Addendum](/dpa/) ·
+[Privacy Policy](#privacy-policy) ·
+[Terms of Use](#terms-of-use)
+
+**PART I**
+
 <a id="terms-of-use"></a>
 
-# Terms of Use and Privacy Policy
+# TERMS OF USE AND END USER LICENSE AGREEMENT
 
-Last Updated: June 23, 2026
-Effective Date: April 9, 2026
+*Last Updated: 28 July 2026  |  Effective Date: 28 July 2026*
 
-IMPORTANT NOTICE
+> **IMPORTANT: THE APPS ARE FOR PERSONS AGED 18 OR OLDER. THESE TERMS APPLY TO BOTH CONSUMERS AND BUSINESS USERS. SPECIAL BUSINESS-ONLY PROVISIONS APPLY WHEN AN APP IS USED FOR TRADE, BUSINESS, CRAFT, PROFESSION, ORGANIZATIONAL, INSTITUTIONAL, OR OTHER NON-CONSUMER PURPOSES. MANDATORY CONSUMER RIGHTS ARE NOT EXCLUDED.**
 
-These Terms are intended solely for business-to-business relationships. The Apps are offered only for business, professional, trade, institutional, organizational, or other non-consumer use.
+By checking an acceptance box, tapping an acceptance or continuation control after a clear link to these Terms is presented, downloading or installing an App, starting a purchase or subscription, restoring a purchase, or otherwise accessing or using an App, you agree to these Terms. If you do not agree, do not access, purchase, install, or use the Apps.
 
-By downloading, installing, accessing, purchasing, or using any App, you represent and warrant that you are acting exclusively in a business or professional capacity and not as a consumer.
+The Privacy Policy in Part II explains data processing and forms part of this package. A privacy notice is not, by itself, consent. Where consent is legally required, it must be requested separately through an appropriate affirmative mechanism.
 
-By downloading, installing, accessing, purchasing, subscribing to, or using any application, feature, website, software, digital product, documentation, update, or related service made available by Nazarii Hafych, acting in his own name under the brand HAFYCH (“HAFYCH”, “we”, “us”, “our”) (collectively, the “Apps”), you agree to these Terms of Use and Privacy Policy.
+## 1. Provider, Contracting Party, and Contact Details
 
-If you do not agree, do not download, install, access, purchase, subscribe to, or use the Apps.
+The Apps are provided by Nazarii Hafych, a natural person and independent software developer acting in his own name under the unregistered HAFYCH brand. HAFYCH is a brand name and is not a separate company, partnership, corporation, or other legal entity.
 
-⸻
+**Legal name:** Nazarii Hafych
 
-1. Who We Are
+**Brand / trading name:** HAFYCH (unregistered)
 
-The Apps are provided by Nazarii Hafych, acting in his own name under the brand HAFYCH.
+**Public contact address:** Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
 
-Legal name: Nazarii Hafych
-Brand name: HAFYCH
-Address: Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
-Contact: nazariihafych@gmail.com⁠￼
+**Telephone:** +48 571 088 639
 
-For purposes of these Terms, “HAFYCH”, “we”, “us”, and “our” refer to Nazarii Hafych acting in his own name under the brand HAFYCH.
+**General, support, privacy, security, billing, and legal email:** nazariihafych@gmail.com
 
-“You”, “your”, and “user” refer to the business, organization, professional, individual entrepreneur, sole proprietor, self-employed person, employee, contractor, agent, representative, or other non-consumer user accessing or using the Apps.
+**Website:** https://hafych.github.io/
 
-⸻
+The public contact address is provided for identification and public contact purposes. It is not represented as a guaranteed postal service address. Unless mandatory law requires a different method, formal notices to HAFYCH must be sent electronically to the email above with the subject line “LEGAL NOTICE” or “PRIVACY REQUEST,” as applicable.
 
-2. B2B-Only Eligibility and Authority
+### 1.1 Platform and Merchant-of-Record Roles
 
-The Apps are offered only to:
+Google, Apple, another app store, RevenueCat, or another provider may distribute an App, validate entitlements, facilitate subscriptions, process payments, issue refunds, or act as marketplace operator, billing intermediary, reseller, commissionaire, or merchant of record. Those providers are not HAFYCH and may impose additional terms. Their role does not transfer ownership of an App or eliminate these Terms.
 
-* legal entities;
-* individual entrepreneurs, sole proprietors, self-employed persons, freelancers, or professionals acting for business purposes;
-* officers, employees, contractors, agents, representatives, consultants, or other persons acting for a business, professional, institutional, trade, or organizational purpose.
+## 2. Definitions and Scope
 
-The Apps are not offered for personal, family, household, or consumer use.
+- “App” or “Apps” means any application, software, feature, website, documentation, update, subscription, digital product, or related service made available by Nazarii Hafych under the HAFYCH brand, unless a separately signed agreement expressly states otherwise.
 
-By using the Apps, you represent and warrant that:
+- “Consumer” means a natural person acting wholly or mainly outside that person’s trade, business, craft, or profession, as determined under mandatory applicable law.
 
-1. you are acting solely for business or professional purposes;
-2. you are not acting as a consumer;
-3. you have full authority to bind the relevant business, legal entity, organization, or principal to these Terms;
-4. all information you provide in connection with billing, licensing, support, compliance, identity, organization, or use of the Apps is true, accurate, current, and complete;
-5. your use of the Apps does not violate any internal corporate policy, procurement rule, professional duty, compliance obligation, export-control restriction, sanctions rule, confidentiality obligation, data protection obligation, or applicable law;
-6. you are not prohibited from using the Apps under applicable law, sanctions rules, platform rules, or these Terms.
+- “Business User” means a person or organization using an App wholly or mainly for trade, business, craft, professional, institutional, governmental, organizational, or other non-consumer purposes.
 
-If you are not acting in a business or professional capacity, you are not authorized to use the Apps.
+- “User Content” means files, text, notes, documents, images, audio, settings, metadata, prompts, credentials, keys, exports, backups, and other material selected, created, stored, opened, imported, exported, synchronized, or otherwise handled by a user through an App.
 
-If, notwithstanding this Section, any user is determined by a competent authority to be a consumer, these Terms shall apply only to the maximum extent permitted by mandatory applicable law, and the remaining provisions shall remain in full force and effect.
+- “Third-Party Service” includes Google Play, Google Drive, Apple file services, RevenueCat, GitHub Pages, operating systems, device manufacturers, payment providers, networks, and other external services used by or connected to an App.
 
-⸻
+These Terms apply to all Apps unless App-specific terms expressly override a provision. A separately signed written agreement controls only to the extent it expressly identifies and overrides these Terms.
 
-3. License Grant
+## 3. Eligibility, Age, Capacity, and Acceptance
 
-Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install, access, and use the Apps solely for lawful internal business and professional use, and solely as permitted by these Terms, applicable law, and any applicable app store, platform, subscription, order, or licensing rules.
+### 3.1 Age and Legal Capacity
 
-This license does not transfer ownership of the Apps or any intellectual property rights to you.
+You must be at least 18 years old and have legal capacity to enter into these Terms. HAFYCH does not operate a user-account system, does not ask for a date of birth as part of account registration, and does not independently verify age. The absence of technical age verification does not authorize use by a person under 18.
 
-You may not:
+### 3.2 Acting for an Organization
 
-* copy, modify, adapt, translate, distribute, sell, resell, rent, lease, lend, sublicense, assign, transfer, host, outsource, make available, or commercially exploit the Apps except as expressly permitted by us in writing;
-* reverse engineer, decompile, disassemble, decrypt, bypass, circumvent, or attempt to extract source code, underlying ideas, algorithms, data structures, models, keys, tokens, license mechanisms, or technical protection measures, except to the extent such restriction is prohibited by mandatory law;
-* remove, obscure, or alter any copyright, trademark, license, security, proprietary, attribution, or legal notices;
-* bypass, disable, overload, interfere with, or attempt to defeat security, access control, licensing, subscription, entitlement, rate-limit, anti-abuse, anti-circumvention, anti-fraud, or technical protection mechanisms;
-* use the Apps to develop, support, benchmark for publication, compare, train, improve, or operate a competing product or service without our prior written consent;
-* use the Apps in a manner that could damage, disable, overload, impair, disrupt, reverse engineer, scrape, or interfere with the Apps, related infrastructure, users, platforms, devices, networks, or third-party services;
-* use the Apps outside the scope of the license, subscription, purchase, seat limit, platform entitlement, or written agreement applicable to you.
+If you use an App for or on behalf of an organization, you represent that you have authority to accept these Terms for that organization. The organization is bound once an authorized person accepts the Terms, obtains an entitlement, deploys the App, permits use, or receives the benefit of use. If you falsely claim authority, you remain personally responsible for your own conduct and any resulting loss to the maximum extent permitted by law.
 
-We reserve all rights not expressly granted.
+### 3.3 Electronic Contracting and Evidence
 
-⸻
+You consent to electronic contracting, electronic notices, and electronic records. To the extent available and lawful, app-store records, purchase receipts, entitlement records, App version information, timestamps, support correspondence, device or App-instance identifiers, and records of an acceptance control may be used to establish assent, purchase, entitlement, and compliance. HAFYCH does not promise that every acceptance event will be stored on a HAFYCH server because HAFYCH does not operate its own user-account backend.
 
-4. Prohibited Uses
+### 3.4 Consumer and Business Classification
 
-You must not use the Apps:
+Your legal classification depends on the actual purpose of use and mandatory law, not merely on a label. General provisions apply to every user. Sections expressly addressed to Business Users apply only when you are a Business User. A Consumer retains all rights that mandatory law does not permit these Terms to waive or restrict.
 
-* for terrorism, terrorist financing, violent extremism, incitement of violence, or support of unlawful armed groups;
-* for fraud, phishing, scams, impersonation, identity theft, money laundering, financial crime, deceptive practices, or unauthorized transactions;
-* to create, store, transmit, solicit, distribute, access, or facilitate unlawful content, including child sexual abuse material, sexual exploitation, non-consensual intimate content, or other exploitative material;
-* to violate export control, sanctions, anti-corruption, anti-bribery, privacy, data protection, communications, competition, intellectual property, labor, employment, tax, procurement, consumer protection, or other applicable laws or regulations;
-* to harass, threaten, stalk, dox, abuse, exploit, intimidate, defame, deceive, or harm others;
-* to interfere with devices, users, peers, relays, networks, servers, platforms, systems, telecommunications, or communications infrastructure;
-* to distribute malware, spyware, ransomware, credential stealers, botnets, viruses, worms, exploits, or other harmful code;
-* to gain unauthorized access to accounts, devices, networks, services, files, keys, systems, or data;
-* to scrape, harvest, extract, or process personal data unlawfully;
-* to send spam, unsolicited commercial communications, abusive notifications, or unlawful marketing;
-* to violate the rights of third parties, including intellectual property, confidentiality, privacy, publicity, contractual, employment, or trade secret rights;
-* for emergency, life-safety, medical, military, aviation, nuclear, critical infrastructure, law enforcement, high-risk financial, or other high-risk use cases where malfunction, interruption, inaccuracy, or misuse could lead to death, injury, severe damage, unlawful deprivation of rights, or significant harm;
-* if you are located in, ordinarily resident in, organized under the laws of, owned or controlled by, or acting on behalf of any person, entity, territory, country, government, or organization subject to sanctions or export restrictions, to the extent prohibited by applicable law;
-* in any way that violates these Terms, applicable platform rules, app store rules, or written instructions provided by us.
+## 4. License Grant
 
-We may investigate suspected violations and may suspend, restrict, disable, terminate, revoke, or refuse access immediately, with or without notice.
+Subject to these Terms, payment of any applicable fee, and successful platform or entitlement validation, HAFYCH grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the applicable App on devices you own or control, during the applicable purchase or subscription term, for lawful purposes and within the purchased feature, device, platform, seat, and entitlement limits.
 
-⸻
+For a Consumer, the license is for personal use. For a Business User, the license is for internal business or professional use unless a written plan expressly authorizes another use. The App is licensed, not sold. No ownership of source code, object code, designs, algorithms, documentation, branding, or other intellectual property is transferred.
 
-5. Organizational Responsibility
+### 4.1 Restrictions
 
-Where the Apps are used by employees, contractors, agents, representatives, consultants, or other personnel, the business or organization on whose behalf the Apps are used is fully responsible for:
+Except to the extent a restriction is prohibited by mandatory law, you must not, and must not enable or assist another person to:
 
-* all acts and omissions of such users;
-* compliance with these Terms;
-* confidentiality and security of credentials, devices, backups, exported materials, API keys, access tokens, recovery materials, and internal access controls;
-* all purchases, renewals, subscriptions, licenses, seats, support requests, technical instructions, approvals, payment obligations, and usage arising from such use;
-* ensuring that users are authorized, trained, and legally permitted to use the Apps;
-* ensuring that use of the Apps complies with all applicable laws, internal policies, professional rules, confidentiality duties, and data protection obligations.
+- copy, modify, adapt, translate, distribute, sell, resell, rent, lease, lend, sublicense, assign, transfer, host, make available, or commercially exploit an App except as expressly authorized;
 
-Any act performed by a user reasonably associated with your organization, domain, payment method, device fleet, purchase record, license, entitlement, business relationship, support request, or account may be treated by us as an act authorized by your organization.
+- reverse engineer, decompile, disassemble, decrypt, reconstruct, discover, or attempt to extract source code, algorithms, data structures, models, keys, tokens, purchase validation, entitlement logic, or technical-protection measures;
 
-You are responsible for promptly disabling access for any user who is no longer authorized to use the Apps.
+- remove, obscure, or alter copyright, attribution, proprietary, security, license, or legal notices;
 
-⸻
+- bypass, disable, overload, interfere with, or defeat security, access controls, subscriptions, purchases, entitlements, rate limits, anti-abuse, anti-fraud, or technical-protection mechanisms;
 
-6. Licensing, Seats, Verification, and Misuse
+- share, sell, publish, transfer, or reuse purchase tokens, credentials, keys, entitlement identifiers, or subscription access in excess of the purchased scope;
 
-6.1 Commercial Nature of Use
+- scrape, crawl, harvest, mirror, automate access to, or extract data from an App except through a function expressly intended for that purpose;
 
-All use under these Terms is deemed commercial, professional, organizational, institutional, trade, or business use.
+- conduct vulnerability scanning, penetration testing, exploitation, fuzzing, or security research against an App or related provider account without prior written authorization and an agreed scope;
 
-6.2 Per-Seat Licensing
+- use non-public aspects of an App or its documentation to develop, train, validate, benchmark for publication, market, support, or operate a competing product or service;
 
-Unless expressly stated otherwise, access is provided on a per-seat / per-user basis. A single paid entitlement may not be shared across multiple users unless your applicable paid plan expressly allows it.
+- use an App in a way that violates platform rules, Third-Party Service terms, law, or another person’s rights; or
 
-6.3 Unauthorized Sharing
+- permit use by a person who has not accepted and complied with these Terms where acceptance is required.
 
-Unauthorized seat sharing, account sharing, key sharing, license sharing, credential sharing, subscription sharing, license circumvention, entitlement bypass, or use beyond purchased entitlements is a material breach of these Terms and may result in suspension, termination, audit, access restriction, revocation of paid features, or additional billing.
+### 4.2 Open-Source and Third-Party Components
 
-6.4 Verification and Audit
+An App may contain components governed by separate open-source or third-party licenses. Those licenses control solely for the relevant components to the extent they expressly require a different result. No open-source license grants rights to proprietary portions of an App.
 
-To the maximum extent permitted by applicable law, and on reasonable notice where practicable, we may request information reasonably necessary to verify compliance with seat limits, license scope, authorized usage, payment obligations, sanctions rules, and these Terms.
+### 4.3 Reservation of Rights
 
-If a material underpayment, overuse, seat sharing, license misuse, or unauthorized entitlement use is identified, you shall promptly pay the corresponding fees, charges, and our reasonable documented enforcement costs.
+All rights not expressly granted are reserved. No right arises by implication, estoppel, course of dealing, trade usage, or exhaustion beyond what mandatory law requires.
 
-6.5 Trials, Free Features, and Beta Features
+## 5. Prohibited Uses
 
-We may offer free, trial, experimental, beta, preview, limited, or promotional features. Such features may be modified, limited, suspended, or discontinued at any time.
+You must not use an App, directly or indirectly:
 
-Trial, beta, preview, or experimental features may be unstable, incomplete, insecure, unavailable, or subject to additional restrictions. We do not guarantee that any free, trial, beta, or preview feature will become generally available or remain available.
+- for terrorism, terrorist financing, violent extremism, unlawful armed activity, or incitement of violence;
 
-⸻
+- for fraud, phishing, scams, impersonation, identity theft, money laundering, deceptive practices, unauthorized transactions, or abusive chargebacks;
 
-7. Premium Features, Billing, Taxes, and Refunds
+- to create, possess, solicit, distribute, or facilitate unlawful exploitative content, including child sexual abuse material, sexual exploitation, or non-consensual intimate content;
 
-Premium features may be offered as one-time purchases, recurring subscriptions, licenses, add-ons, credits, seats, upgrades, or other paid entitlements through Apple, Google, another app store, an authorized platform, a payment provider, or another billing mechanism.
+- to distribute malware, spyware, ransomware, credential stealers, botnets, viruses, worms, exploits, or harmful code;
 
-By purchasing, subscribing, or activating paid features, you authorize the applicable platform or payment provider to charge your selected payment method, including recurring charges for subscriptions, until canceled.
+- to gain unauthorized access to a device, account, network, service, file, key, system, or data;
 
-7.1 Auto-Renewal
+- to harass, threaten, stalk, dox, defame, deceive, exploit, intimidate, or unlawfully harm another person;
 
-If a subscription is designated as auto-renewing, it renews automatically for successive billing periods unless canceled before renewal in accordance with the applicable platform’s rules.
+- to scrape, collect, disclose, or otherwise process personal data without a lawful basis or required notice;
 
-Renewal timing, grace periods, failed payments, billing retries, cancellation deadlines, and refund procedures may be controlled by the applicable app store or payment provider.
+- to infringe intellectual property, confidentiality, privacy, publicity, contract, employment, or trade-secret rights;
 
-7.2 Cancellation
+- for spam, unlawful marketing, or unsolicited communications;
 
-You may cancel through the applicable app store, platform account settings, subscription management page, or other designated billing interface.
+- for emergency, life-safety, medical diagnosis or treatment, nuclear, aviation, military targeting, critical-infrastructure control, law-enforcement decision-making, high-risk financial decisions, or another use where malfunction or error could cause death, serious injury, unlawful deprivation of rights, or major property or environmental damage;
 
-Deleting the App does not itself cancel a subscription.
+- in violation of sanctions, export controls, anti-corruption, anti-bribery, privacy, consumer-protection, tax, communications, competition, or other applicable law;
 
-Canceling a subscription may prevent future charges but does not necessarily result in a refund for prior charges, except where required by applicable law, applicable platform rules, or an express written offer made by us.
+- to evade age, geographic, sanctions, payment, purchase, entitlement, device, or platform restrictions; or
 
-7.3 Refunds
+- in any manner that creates a material legal, security, operational, financial, platform, or reputational risk to HAFYCH, a provider, or another person.
 
-Except where required by applicable law, applicable platform rules, or an express written offer made by us, fees are non-refundable.
+Prohibited conduct includes attempting, directing, assisting, instructing, financing, concealing, or facilitating the conduct through another person, device, organization, identifier, integration, or service.
 
-Where Apple, Google, or another platform is the merchant of record, billing, cancellation, chargeback, and refund handling may be governed by that platform’s own policies and procedures.
+## 6. User Content, Local Storage, Cloud Storage, and Sensitive Data
 
-If we directly issue a refund for a subscription purchase, the maximum refund will not exceed the subscription fees actually paid by you for the six (6) monthly billing periods immediately preceding the date of the refund request.
+### 6.1 Ownership and Limited Processing Permission
 
-Amounts paid more than six (6) months before the refund request are non-refundable, except where applicable law or applicable platform rules require otherwise.
+You retain any rights you lawfully hold in User Content. You grant HAFYCH only the limited, worldwide, royalty-free permission necessary to operate a requested feature, respond to support you initiate, verify an entitlement, protect the App, comply with law, or otherwise perform these Terms. This permission ends when no longer necessary, subject to lawful retention and records requirements.
 
-For one-time purchases, any refund, credit, or compensation is granted only at our sole discretion unless otherwise required by applicable law or applicable platform rules.
+### 6.2 Local-First Architecture and No HAFYCH Content Backend
 
-7.4 Chargebacks and Payment Disputes
+Based on the current architecture described by the Provider, HAFYCH does not operate its own backend server for storing ordinary User Content and does not maintain a HAFYCH user-account database. Content may remain on your device or be sent directly to a user-selected Third-Party Service. HAFYCH generally cannot view, retrieve, restore, decrypt, or delete content that it never receives or controls.
 
-To the maximum extent permitted by law, if you initiate a chargeback, payment reversal, abusive refund request, fraudulent dispute, unauthorized payment claim, or otherwise fail to pay amounts due, we may immediately suspend or revoke access to paid features, deactivate licenses, disable entitlements, refuse support, and pursue recovery of unpaid sums, costs, and losses.
+### 6.3 Google Drive and Other User-Selected Storage
 
-7.5 Taxes
+Where an App offers Google Drive or lets you select a folder or file provider exposed by the operating system, files and related metadata may be handled directly between the App, device, operating system, and selected provider. On Apple platforms this can include an iCloud Drive folder only when the operating system exposes it and you select it; Writer Studio does not operate a separate CloudKit or iCloud service. Provider permissions, authentication tokens, file references, synchronization data, and file contents are governed by the relevant feature and provider. HAFYCH does not receive those files on a HAFYCH server unless you separately send them for support.
 
-You are solely responsible for all taxes, duties, levies, withholding obligations, VAT, sales tax, use tax, digital services tax, and similar governmental charges arising out of your purchase or use of the Apps, excluding taxes on our net income.
+### 6.4 Backups and Deletion
 
-If withholding is required by law, you shall gross up payments so that we receive the full amount that would have been received absent such withholding, unless applicable law prohibits such gross-up.
+You are responsible for backups, exports, recovery material, passwords, and deletion from every location. Uninstalling an App may not delete exported files, shared-storage files, operating-system backups, Google Drive files, files in a user-selected provider folder (including iCloud Drive where selected through the operating system), copies held by collaborators, or content sent to another service. HAFYCH does not guarantee recovery of lost, corrupted, encrypted, overwritten, or deleted content.
 
-7.6 No Set-Off
+### 6.5 Sensitive and Regulated Data
 
-To the maximum extent permitted by law, all amounts payable by you shall be paid in full without set-off, counterclaim, deduction, or withholding, except as required by mandatory law.
+An App may technically allow you to store or handle information that is personal, confidential, sensitive, or regulated. HAFYCH does not request such content merely because the App can handle it. Unless an App-specific statement expressly says otherwise, the Apps are not certified or designed as a regulated medical-record system, payment-card environment, government-classified system, critical-infrastructure system, child-data service, or other specially regulated environment. You are solely responsible for determining whether an App and the selected storage provider are lawful and appropriate for the data and use case.
 
-⸻
+## 7. Third-Party Services
 
-## Privacy Policy
+The Apps may depend on or interoperate with Third-Party Services, including Google Play, RevenueCat, Google Drive, operating-system file providers, device manufacturers, networks, and GitHub Pages. Third parties control their own availability, security, policies, fees, processing locations, retention, and technical changes. HAFYCH does not control and is not responsible for a Third-Party Service outside HAFYCH’s reasonable control.
 
-8. Privacy Policy Overview
+You must comply with applicable Third-Party Service terms. A third party may suspend, change, restrict, or discontinue a service, which may impair an App. HAFYCH is not obligated to replace or maintain compatibility with a discontinued or changed service unless mandatory law or a separately signed agreement requires it.
 
-This Privacy Policy explains how HAFYCH processes personal data in connection with the Apps.
+## 8. Premium Features, Subscriptions, Purchases, Taxes, and Refunds
 
-This Privacy Policy forms part of these Terms. Capitalized terms used in this Privacy Policy have the meanings given elsewhere in these Terms.
+### 8.1 Purchase Infrastructure
 
-The Apps may differ in functionality. Therefore, not every category of data described below applies to every App. The exact data processed depends on the specific App, device, platform, permissions, settings, subscription, third-party integrations, and features you choose to use.
+Writer Studio premium features are currently offered through Google Play and RevenueCat-supported entitlement infrastructure. The purchase screen must show the localized total price, billing period, automatic-renewal terms, trial terms when eligible, and a cancellation route before the user starts the Google Play purchase flow. RevenueCat validates purchase tokens and communicates subscription and entitlement status to the App. HAFYCH generally does not receive a full payment-card number, CVV, or complete bank-account credentials.
 
-8.1 Privacy Principles
+### 8.2 Auto-Renewal and Cancellation
 
-Our privacy approach is based on the following principles:
+An auto-renewing subscription renews for successive monthly or annual billing periods until canceled through Google Play before renewal. An eligible one-month free trial converts automatically to the selected paid plan at the localized price shown before purchase unless canceled before the trial ends. The App provides access to Google Play subscription management; deleting the App does not cancel a subscription. Renewal timing, price notices, grace periods, billing retries, cancellation, restoration, and refund procedures may be controlled by Google Play. When a current subscriber changes plans, the timing and charge follow the replacement terms shown by Google Play: the current implementation requests an immediate full-price monthly-to-annual change and a deferred annual-to-monthly change at the next renewal.
 
-1. Data minimization. We aim to collect and process only the data reasonably necessary to provide, secure, maintain, improve, support, and monetize the Apps.
-2. Local-first design where possible. Where technically feasible, user content is stored locally on your device rather than on servers operated by us.
-3. No sale of local private content. We do not sell private user content that remains locally stored on your device.
-4. Feature-specific processing. Different Apps and features may process different categories of data depending on what functionality you choose to use.
-5. Third-party transparency. Some functions may rely on app stores, operating systems, SDKs, payment providers, analytics tools, crash-reporting tools, advertising networks, infrastructure providers, cloud services, AI providers, or communication networks that process data under their own terms and privacy policies.
-6. User control. You can often control access to permissions, local files, notifications, device features, and app data through your device settings, operating system controls, app settings, or platform account settings.
+### 8.3 Refunds and Consumer Rights
 
-8.2 B2B Privacy Context
+Refunds are handled under the applicable platform’s procedures and mandatory law. Except where mandatory law, a platform rule, or an express written offer requires otherwise, fees are non-refundable after the applicable service or entitlement has been supplied. Nothing in this Section removes a Consumer’s non-waivable remedies for non-conforming digital content or services.
 
-The Apps are offered only for business, professional, trade, institutional, organizational, or other non-consumer use.
+Where HAFYCH directly supplies digital content before the end of a statutory withdrawal period, the supply may begin only after any consent and acknowledgment required by law. A loss of a withdrawal right applies only where mandatory legal conditions are satisfied. Purchases made through Google Play or Apple remain subject to the platform’s withdrawal and refund process.
 
-Where the Apps are used by or on behalf of an organization, the organization is responsible for ensuring that its users, employees, contractors, agents, representatives, customers, and other authorized users understand how the Apps process data and comply with applicable privacy, data protection, employment, confidentiality, procurement, and compliance obligations.
+### 8.4 Chargebacks and Payment Abuse
 
-If you provide personal data of another person to or through the Apps, you represent and warrant that you have all necessary rights, notices, permissions, consents, legal bases, and authority to do so.
+A good-faith exercise of a statutory or platform right is not prohibited. However, fraudulent, duplicative, knowingly false, or abusive payment disputes may result in suspension or revocation of the affected entitlement and recovery of lawful costs and losses. HAFYCH may provide relevant entitlement, purchase, support, and usage records to the platform, payment provider, or competent authority.
 
-⸻
+### 8.5 Taxes
 
-9. Legal Bases for Processing
+For Consumers, displayed prices include taxes where required by law or platform rules. A Business User is responsible for taxes, duties, levies, withholding, VAT, and similar charges attributable to its purchase or use, except taxes imposed on HAFYCH’s net income. Platform tax treatment may control where the platform is merchant of record.
 
-Where applicable data protection law, including the GDPR or UK GDPR, requires a legal basis for processing personal data, we may rely on one or more of the following legal bases:
+## 9. Updates, Availability, Support, Suspension, and Termination
 
-1. Performance of a contract — where processing is necessary to provide the Apps, paid features, licensing, support, updates, account-related functionality, or other services requested by you.
-2. Legitimate interests — where processing is necessary for our legitimate business interests, including operating, securing, improving, debugging, supporting, protecting, enforcing, and monetizing the Apps, provided those interests are not overridden by applicable rights and freedoms.
-3. Legal obligations — where processing is necessary to comply with applicable law, court orders, tax rules, accounting requirements, sanctions, export-control rules, platform rules, or lawful requests from competent authorities.
-4. Consent — where required by law, for example for certain permissions, optional analytics, advertising identifiers, marketing communications, or similar processing. Where processing is based on consent, you may withdraw consent where applicable.
-5. Protection of rights and safety — where processing is necessary to protect our rights, users, organizations, systems, security, property, or the integrity of the Apps.
+### 9.1 Updates and Compatibility
 
-⸻
+HAFYCH may provide, require, modify, or discontinue updates for security, compatibility, legal, platform, entitlement, or product reasons. An update may change features, storage formats, permissions, system requirements, or Third-Party Service compatibility. HAFYCH does not promise perpetual compatibility with every device, operating-system version, provider, file format, or platform.
 
-10. Categories of Data We May Process
+### 9.2 Support
 
-The exact data processed depends on the specific App, platform, device, permissions, paid features, SDK integrations, and functionality used.
+Support may be provided through the contact email at HAFYCH’s discretion. Contact details do not create a service-level agreement, guaranteed response time, guaranteed fix, maintenance obligation, or obligation to support a particular device or version unless a separately signed agreement expressly provides one or mandatory law requires it.
 
-10.1 Basic App and Device Data
+### 9.3 Suspension or Termination
 
-The Apps, operating systems, app stores, SDKs, or service providers may process technical information such as:
+To the maximum extent permitted by law, HAFYCH may suspend, restrict, revoke, or terminate access to an App or paid feature where you materially breach these Terms, evade payment or entitlement controls, create a security or legal risk, violate sanctions or platform rules, misuse a feature, or where a dependency, platform, legal permission, or product is discontinued. Where reasonably practicable and legally appropriate, HAFYCH may provide notice or an opportunity to cure. Immediate action may be taken for serious abuse, fraud, security threats, unlawful conduct, or urgent platform or legal requirements.
 
-* device type, model, and manufacturer;
-* operating system, language, region, and version;
-* app name, app version, build number, and installation source;
-* device identifiers, app-instance identifiers, advertising identifiers, vendor identifiers, or similar identifiers;
-* IP address and approximate location derived from IP address;
-* timestamps, session information, diagnostics, and performance data;
-* crash logs, error reports, and debugging information.
+Termination ends the license for the affected App or feature. Provisions that by nature should survive remain effective, including payment obligations, intellectual property, user responsibility, privacy, disclaimers, liability limits, Business User indemnity, dispute resolution, and records provisions.
 
-We may use this data to operate, secure, troubleshoot, improve, analyze, and support the Apps.
+## 10. Security, Credentials, and User Responsibility
 
-10.2 Local User Content
+HAFYCH uses measures reasonably appropriate to the limited data and systems HAFYCH controls. The current architecture avoids a HAFYCH content-storage backend, but no App, device, operating system, cloud provider, network, encryption method, or transmission is completely secure.
 
-Depending on the App, user content may include messages, notes, drafts, documents, files, images, audio, video, metadata, settings, preferences, encryption material, local databases, cached files, exports, or backups.
+You are responsible for securing your device, operating-system account, Google or Apple account, cloud storage, passwords, biometric access, API keys, purchase account, recovery material, exports, backups, and shared files. Malware, compromised devices, screenshots, clipboard exposure, weak credentials, unsafe cloud sharing, provider compromise, user error, or loss of recovery material may defeat security protections.
 
-Where an App stores content locally on your device, we generally do not receive or store that content on servers operated by us unless:
+You must not send passwords, private keys, seed phrases, full card data, authentication codes, or other unnecessary secrets to HAFYCH support. If you voluntarily send diagnostic files or content, remove information not needed for the request.
 
-* you choose to send it to us for support;
-* you export, share, sync, upload, transmit, or back it up through a third-party service;
-* the App integrates with a cloud, network, peer-to-peer, relay, or collaboration feature;
-* a platform, SDK, operating system, crash-reporting tool, analytics tool, backup service, or other third party processes related data according to its own functionality;
-* applicable law, security, abuse-prevention, or platform requirements require limited processing.
+## 11. Intellectual Property and Feedback
 
-You are responsible for maintaining backups of local content where necessary.
+### 11.1 HAFYCH Rights
 
-10.3 Account, Licensing, and Entitlement Data
+The Apps, source code, object code, architecture, algorithms, documentation, interface elements, original graphics, text, icons, and other original material are owned by Nazarii Hafych or used under applicable licenses and are protected by copyright and other law. “HAFYCH” is an unregistered brand or trade name; no statement in these Terms claims that it is a registered trademark.
 
-Where the Apps include paid features, subscriptions, licenses, seats, trials, activation, entitlement verification, or business access controls, we or our providers may process:
+### 11.2 Feedback
 
-* purchase status;
-* subscription status;
-* license or entitlement identifiers;
-* app store receipts or purchase tokens;
-* plan type, renewal status, expiration date, cancellation status, and refund status;
-* business, organization, or billing information you provide;
-* information reasonably necessary to detect license misuse, entitlement sharing, fraud, payment abuse, or unauthorized access.
+If you voluntarily submit a suggestion, idea, bug report, feature request, design, proposal, or other feedback, you grant Nazarii Hafych a worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free right to use, reproduce, adapt, publish, distribute, commercialize, and incorporate it without restriction or compensation. This does not transfer ownership of unrelated User Content.
 
-We may use this data to provide paid features, verify access, enforce licensing, prevent abuse, and resolve payment or support issues.
+## 12. Disclaimers
 
-10.4 Payment and Transaction Data
+> **TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE APPS ARE PROVIDED “AS IS” AND “AS AVAILABLE.”**
 
-If you purchase through Apple App Store, Google Play, another platform, or another payment provider, payment processing is handled by that provider under its own terms and privacy policy.
+HAFYCH disclaims all express, implied, statutory, and other warranties that may lawfully be disclaimed, including merchantability, fitness for a particular purpose, satisfactory quality, title, quiet enjoyment, non-infringement, accuracy, availability, compatibility, security, and results.
 
-We generally do not receive or store your full payment card number, CVV, or full banking details.
+HAFYCH does not warrant that:
 
-Depending on the platform, we may receive limited transaction-related information, such as:
+- an App will be uninterrupted, error-free, continuously available, invulnerable, private, anonymous, or compatible with every device, platform, law, file, or provider;
 
-* product purchased;
-* purchase date;
-* subscription status;
-* renewal, cancellation, refund, or chargeback information;
-* country or region associated with the transaction;
-* transaction identifiers, order identifiers, receipt data, or purchase tokens.
+- bugs, vulnerabilities, data loss, corruption, or compatibility problems will be identified, prevented, or corrected;
 
-This information may be used for entitlement verification, support, fraud prevention, accounting, tax, compliance, and dispute handling.
+- local or cloud files, exports, imports, synchronization, backups, subscriptions, notifications, or entitlements will be recoverable, complete, timely, or error-free;
 
-10.5 Support Communications
+- a Third-Party Service will remain available, secure, lawful, unchanged, or compatible;
 
-If you contact us for support, feedback, complaints, legal requests, billing questions, or other communications, we may process:
+- an App is suitable for a medical, legal, financial, safety-critical, regulated, confidential, or other particular use case; or
 
-* your name or business name;
-* email address or other contact details;
-* message contents;
-* attachments, screenshots, documents, logs, diagnostic files, crash reports, or recordings you choose to provide;
-* information about your device, app version, operating system, purchase, license, or issue;
-* our responses and internal notes related to your request.
+- information, suggestions, calculations, transformations, or outputs produced through an App will be accurate, complete, non-infringing, or suitable for reliance without independent review.
 
-Please do not send confidential, sensitive, regulated, or unnecessary personal data unless it is required for your request.
+Nothing in these Terms excludes an express warranty that mandatory law requires HAFYCH to provide to a Consumer.
 
-10.6 Permissions and Device Features
+## 13. Limitation of Liability
 
-The Apps may request access to device permissions or features, including:
+### 13.1 Excluded Losses
 
-* Camera;
-* Microphone;
-* Photos;
-* Files, documents, or storage;
-* Notifications;
-* Bluetooth;
-* Local Network;
-* Contacts;
-* Location;
-* Clipboard;
-* biometric or device authentication features;
-* other permissions necessary for specific functionality.
+To the maximum extent permitted by law, Nazarii Hafych and HAFYCH are not liable for indirect, incidental, special, exemplary, punitive, enhanced, multiple, or consequential loss, or for loss of profit, revenue, opportunity, goodwill, reputation, expected savings, contracts, business interruption, data, content, files, keys, credentials, backups, or device value, whether arising in contract, tort, negligence, strict liability, statute, or another theory, even if advised that loss was possible.
 
-Permissions are used only for the relevant App feature for which they are requested. You can usually grant, deny, restrict, or revoke permissions through your device or operating system settings.
+To the maximum extent permitted by law, HAFYCH is not liable for loss caused by:
 
-Some features may not work correctly without the relevant permission.
+- a Third-Party Service, app store, operating system, device, telecom provider, cloud provider, payment provider, RevenueCat, or network outside HAFYCH’s reasonable control;
 
-10.7 Notifications
+- your failure to maintain backups, safeguard credentials, configure permissions, manage cloud access, install updates, or follow documentation;
 
-If an App uses push notifications, notification providers such as Apple Push Notification service, Firebase Cloud Messaging, Google Play Services, or similar providers may process technical data necessary to deliver notifications, including device tokens, app identifiers, timestamps, and delivery metadata.
+- your illegal, prohibited, high-risk, unauthorized, or unsuitable use;
 
-Notification content may depend on how the App is designed and configured.
+- malware, device compromise, provider compromise, user error, lost recovery material, or unsafe exports or sharing;
 
-You can disable notifications through device settings or App settings where available.
+- a suspension, platform removal, sanctions restriction, legal requirement, or dependency discontinuation outside HAFYCH’s reasonable control; or
 
-10.8 Analytics, Crash Reporting, Anti-Fraud, and Advertising SDKs
+- content, instructions, settings, files, integrations, or actions supplied or selected by you or another user.
 
-The Apps may use third-party SDKs or platform services for analytics, diagnostics, crash reporting, performance monitoring, anti-fraud, attribution, advertising, or app functionality.
+### 13.2 Consumer Claims
 
-Depending on the App and SDK configuration, these providers may process:
+For a Consumer, exclusions and caps apply only to the extent valid under mandatory law. Nothing excludes or limits liability for fraud, intentional misconduct, death or personal injury caused by negligence where such liability cannot be limited, or any statutory remedy that cannot lawfully be excluded. Where mandatory law permits a monetary cap, HAFYCH’s aggregate liability will not exceed the amount paid for the affected App or subscription during the six months before the event giving rise to the claim.
 
-* device information;
-* app usage events;
-* crash logs and diagnostics;
-* IP address or approximate location;
-* advertising identifiers or app-instance identifiers;
-* purchase or attribution events;
-* interaction data;
-* performance data.
+### 13.3 Business User Cap
 
-These providers may process data as our service providers, independent controllers, or under their own applicable terms. Their processing may be subject to their own privacy policies.
+For a Business User, to the maximum extent permitted by law, the total aggregate liability of Nazarii Hafych and HAFYCH for all claims arising out of or relating to an App, purchase, subscription, these Terms, or the same or related events will not exceed the net amount actually retained by HAFYCH for the affected App from that Business User during the six months immediately preceding the first event giving rise to liability, after platform commissions, taxes collected or remitted by a platform, refunds, reversals, and chargebacks. If the Business User used only a free, trial, beta, or unpaid feature, the aggregate cap is zero to the maximum extent permitted by law.
 
-Where required by law, we will request consent before using optional analytics, advertising identifiers, personalized advertising, or similar technologies.
+Related acts, omissions, events, claims, users, purchases, and legal theories constitute one claim for purposes of the cap. The cap does not refresh for each claimant, user, theory, proceeding, or remedy. A remedy’s failure of essential purpose does not expand liability to the extent permitted by law.
 
-10.9 Peer-to-Peer, WebRTC, Tor, Relays, and Network Metadata
+### 13.4 Allocation of Risk
 
-Some Apps or features may use peer-to-peer technologies, WebRTC, STUN/TURN, Tor, relays, routing infrastructure, local network discovery, or similar technologies for messaging, calls, synchronization, collaboration, or file transfer.
+The disclaimers and limits are an essential allocation of risk reflected in the availability and price of the Apps. They apply to the fullest extent permitted even where another remedy is unavailable. Your payment, misuse, infringement, confidentiality, data-protection, indemnity, and sanctions obligations are not limited by HAFYCH’s liability cap.
 
-When these features are used, technical data necessary to establish, route, relay, maintain, or debug connections may be processed or exposed to peers, relay operators, infrastructure providers, local networks, internet service providers, telecom carriers, or other network participants.
+## 14. Business User Addendum
 
-Such data may include:
+> **THIS SECTION APPLIES ONLY TO BUSINESS USERS. IT DOES NOT REMOVE NON-WAIVABLE CONSUMER RIGHTS.**
 
-* IP addresses;
-* ports;
-* ICE candidates;
-* device or session metadata;
-* connection timestamps;
-* relay, routing, and transport information;
-* approximate network location;
-* traffic volume, timing, or connection state information.
+### 14.1 Business Representations
 
-We do not control the broader internet, Tor relays, peer devices, local networks, telecom carriers, app stores, operating systems, or third-party routing infrastructure.
+A Business User represents and warrants that it:
 
-We do not guarantee anonymity, non-attribution, invisibility, non-correlation, resistance to traffic analysis, or protection against deanonymization.
+- has authority and legal capacity to enter into and perform these Terms;
 
-10.10 Cloud, Sync, Collaboration, and Third-Party Storage
+- will use the Apps only for lawful business or professional purposes;
 
-Some Apps may allow you to connect, export, import, sync, back up, collaborate, or store content using third-party services such as cloud storage, file providers, identity providers, collaboration tools, operating system backup services, or user-selected integrations.
+- will ensure that personnel and other authorized users comply with these Terms;
 
-When you use such features:
+- has all notices, rights, consents, contracts, instructions, and legal bases required for data and content it processes through an App;
 
-* the relevant third party may process your content and metadata under its own terms and privacy policy;
-* we may process limited data necessary to enable the integration;
-* access tokens, permissions, file references, metadata, or synchronization information may be processed depending on the integration;
-* you are responsible for reviewing and managing permissions granted to third-party services.
+- will not rely on an App as a substitute for professional judgment, mandatory controls, regulated infrastructure, or independent verification;
 
-If content is exported or shared outside the App, it may remain available in the destination service even if you later delete it from the App.
+- will maintain appropriate security, backups, access control, business continuity, and internal policies; and
 
-10.11 Google Drive, Cloud Storage, and User-Selected File Providers
+- will comply with procurement, employment, confidentiality, sanctions, export-control, tax, privacy, and sector-specific obligations applicable to its use.
 
-Some Apps may allow users to connect Google Drive, iCloud, Dropbox, OneDrive, local file providers, device storage, or other third-party storage providers.
+### 14.2 Organizational Responsibility
 
-If you connect such a provider, the App may request access only to the permissions reasonably necessary for the selected feature, such as opening, saving, importing, exporting, syncing, or backing up files.
+A Business User is responsible for all acts and omissions of its employees, contractors, agents, representatives, consultants, administrators, and other persons who use an App through its devices, purchases, entitlements, payment methods, instructions, or business relationship. It must promptly remove unauthorized access and protect devices, cloud accounts, files, purchase credentials, and recovery material.
 
-Depending on the feature and provider, the App or relevant SDK may process:
+### 14.3 Seats, Sharing, and Verification
 
-* file names;
-* file IDs or references;
-* folder IDs or references;
-* access tokens or refresh tokens;
-* file metadata;
-* selected file contents;
-* synchronization status;
-* timestamps;
-* permission scopes;
-* error logs or diagnostic information.
+Where a plan or entitlement is limited by user, device, organization, purchase, feature, or other scope, the Business User must not pool, rotate, multiplex, share, resell, or circumvent that scope. On reasonable notice where practicable, HAFYCH may request records reasonably necessary to verify purchase and entitlement compliance. HAFYCH will not request unrelated personal content merely to conduct a license verification.
 
-Your use of third-party storage providers is subject to their own terms and privacy policies.
+If material underpayment, unauthorized sharing, or entitlement circumvention is established, the Business User must pay the applicable fees at the then-current undiscounted rate and reimburse HAFYCH’s reasonable documented enforcement costs, to the maximum extent permitted by law.
 
-You are responsible for managing provider permissions, revoking access where needed, and deleting files from the relevant provider if you no longer want them stored there.
+### 14.4 No Reliance and No Implied SLA
 
-10.12 AI Features and User-Provided API Keys
+A Business User acknowledges that it has not relied on a roadmap, forecast, screenshot, demonstration, benchmark, app-store description, support statement, or other representation not expressly included in a controlling signed agreement. No purchase order, procurement portal, email footer, internal policy, or vendor form adds terms unless HAFYCH expressly accepts it in a signed writing.
 
-Some Apps may include optional AI-related features. Depending on the design of the specific feature, AI processing may be performed by a third-party AI provider, a user-selected provider, a local model, or a service configured by you.
+### 14.5 Contractual Claim Period
 
-If you provide your own API key or connect your own AI provider account:
+To the maximum extent permitted by law, a Business User must commence any contractual claim within one year after it knew or reasonably should have known the material facts giving rise to the claim. This contractual period does not apply where a shorter or longer period is mandatory and cannot lawfully be varied.
 
-* the API key may be stored locally or processed as necessary to provide the feature;
-* prompts, text, files, metadata, or other content you submit to the AI feature may be sent to the selected AI provider;
-* the selected AI provider may process that data under its own terms and privacy policy;
-* you are responsible for reviewing the provider’s data-use, retention, training, confidentiality, and security practices;
-* we generally do not control how third-party AI providers process data submitted through their APIs.
+## 15. Business User Indemnification
 
-You should not submit confidential, sensitive, regulated, personal, or proprietary information to AI features unless you have confirmed that such use is lawful and appropriate for your organization.
+A Business User must defend, indemnify, and hold harmless Nazarii Hafych, HAFYCH, successors, permitted assigns, and service providers from claims, proceedings, losses, liabilities, judgments, penalties, fines, taxes, damages, and reasonable documented legal and technical costs arising from or relating to:
 
-10.13 User-Generated Content and Shared Content
+- the Business User’s User Content, instructions, integrations, data, business activities, or use or misuse of an App;
 
-If an App allows you to create, import, export, share, transmit, publish, collaborate on, or otherwise make available content, you are responsible for that content and for ensuring that you have all rights and permissions necessary to use it.
+- a breach of these Terms or a separately signed agreement by the Business User or its personnel;
 
-Content shared with other users, collaborators, third-party services, cloud providers, AI providers, app extensions, operating system sharing features, or external tools may be further copied, stored, processed, disclosed, or redistributed outside our control.
+- violation of law, sanctions, export control, platform rules, confidentiality, privacy, data-protection, employment, intellectual-property, or third-party rights;
 
-We cannot guarantee deletion, confidentiality, or control of content once you export it, share it, transmit it, or make it available to another person, service, device, or platform.
+- an allegation that data, content, files, instructions, or materials supplied or selected by the Business User infringe or unlawfully use another person’s rights;
 
-10.14 Sensitive Data
+- failure to obtain required rights, notices, permissions, consents, contracts, or legal bases;
 
-The Apps are not designed to process special categories of personal data, highly sensitive data, regulated data, classified information, medical records, financial account data, payment card data, government identifiers, children’s data, or other high-risk data unless a specific App feature expressly supports such use and you have all required legal authority and safeguards.
+- unauthorized purchase sharing, entitlement circumvention, fraudulent payment dispute, or unlawful redistribution; or
 
-You must not submit, store, transmit, or process sensitive or regulated data through the Apps unless you are legally permitted to do so and have determined that the Apps are appropriate for that use.
+- a high-risk or regulated use not expressly approved in a signed agreement.
 
-⸻
+HAFYCH may control the defense with counsel reasonably selected by HAFYCH. The Business User must cooperate, preserve evidence, and not settle in a manner that admits fault by or imposes obligations on HAFYCH without prior written consent. HAFYCH will provide reasonably prompt notice where failure to do so would materially prejudice the defense. This Section does not require indemnity for loss finally determined to have resulted solely from HAFYCH’s intentional misconduct.
 
-11. Purposes of Processing
+## 16. Sanctions, Export Controls, and Geographic Restrictions
 
-We may process data for the following purposes:
+The Apps are not available to any person, entity, territory, or jurisdiction where provision or use would violate sanctions, export controls, platform restrictions, or other applicable law. You represent that you are not prohibited or restricted from receiving the App and will not export, re-export, transfer, or make it available in violation of applicable rules, including rules applicable to HAFYCH, the user, the relevant platform, and payment or service providers.
 
-* to provide, operate, maintain, update, and improve the Apps;
-* to enable App functionality, including local storage, editing, messaging, calling, file handling, notifications, synchronization, collaboration, network communication, AI features, or other features;
-* to provide paid features, verify purchases, manage subscriptions, enforce licenses, prevent entitlement misuse, and resolve billing issues;
-* to detect, investigate, prevent, and respond to crashes, bugs, fraud, abuse, security incidents, unauthorized access, license circumvention, sanctions issues, and other misuse;
-* to provide customer support and respond to inquiries;
-* to analyze App performance, stability, usage, and feature effectiveness;
-* to comply with legal, tax, accounting, platform, export-control, sanctions, and regulatory obligations;
-* to enforce these Terms and protect our rights, property, users, systems, business, and legal interests;
-* to communicate with you about support, updates, security, billing, legal notices, and service-related matters;
-* to carry out a merger, acquisition, financing, restructuring, transfer of business, or asset sale.
+HAFYCH may block or discontinue availability where reasonably necessary to comply with sanctions, export controls, platform requirements, provider restrictions, or legal advice. No refund is owed for a suspension caused by your prohibited status or conduct except where mandatory law or platform rules require otherwise.
 
-⸻
+## 17. Notices and Communications
 
-12. Data Sharing and Disclosure
+### 17.1 Notices to HAFYCH
 
-We may disclose limited data to the following categories of recipients where necessary or permitted by law.
+Formal legal notices must be emailed to nazariihafych@gmail.com with the subject “LEGAL NOTICE.” A notice should include the claimant’s legal name and contact details, the App and transaction involved, the facts and legal basis, the requested relief, and key supporting documents. A privacy request should use the subject “PRIVACY REQUEST.”
 
-12.1 App Stores, Payment Providers, and Billing Platforms
+### 17.2 Notices to You
 
-We may share or receive limited data from Apple, Google, app stores, payment processors, subscription platforms, and billing providers for purchases, subscriptions, refunds, tax, chargebacks, entitlement verification, fraud prevention, and support.
+HAFYCH may provide notices through an App, the Website, a store listing, the platform used for purchase, or an email or other contact you supplied. Unless mandatory law requires another rule, email is deemed received on the next business day if no non-delivery notice is received, and an in-App or posted notice is received when displayed or made reasonably available.
 
-12.2 Service Providers and SDK Vendors
+## 18. Dispute Resolution
 
-We may use service providers and SDK vendors for:
+### 18.1 Informal Resolution
 
-* crash reporting;
-* analytics;
-* diagnostics;
-* notifications;
-* infrastructure;
-* hosting;
-* security;
-* anti-fraud;
-* advertising or attribution;
-* customer support;
-* email communication;
-* logging and monitoring;
-* app distribution;
-* entitlement verification;
-* data storage or backup where applicable.
+Before commencing a direct contractual claim against HAFYCH, the claimant should send a written notice under Section 17. The parties will attempt in good faith to resolve the dispute. A Consumer may commence proceedings after 30 calendar days from receipt if unresolved. A Business User must allow 90 calendar days. This procedure does not prevent an urgent request for interim relief, a complaint to a regulator or platform, exercise of a non-waivable consumer right, or action needed to preserve a limitation period.
 
-These providers may process data according to our instructions, their own terms, or both, depending on their role and applicable law.
+### 18.2 Consumer Disputes
 
-12.3 Network, Relay, and Infrastructure Providers
+A Consumer may use any court, alternative dispute-resolution body, regulator, or complaint mechanism available under mandatory law. Nothing in these Terms requires a Consumer to arbitrate a dispute or prevents a Consumer from bringing proceedings in a court that mandatory consumer-jurisdiction rules make available. HAFYCH may bring proceedings against a Consumer only in a forum permitted by mandatory law.
 
-Where technically necessary for features such as messaging, calls, file transfer, peer-to-peer connections, WebRTC, Tor, relays, routing, synchronization, or collaboration, technical data may be processed by peers, relays, infrastructure providers, internet service providers, telecom carriers, local network devices, or other communication intermediaries.
+### 18.3 Business Disputes with a Foreign Element
 
-12.4 Third-Party Integrations Selected by You
+Any dispute, controversy, or claim between HAFYCH and a Business User arising out of or relating to these Terms, an App, a purchase, a subscription, a license, its conclusion, interpretation, performance, breach, termination, or invalidity, and having a foreign element or otherwise falling within the jurisdiction of international commercial arbitration, shall be finally resolved by the International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry (ICAC at the UCCI) under its Rules in force when the claim is filed.
 
-If you connect or use third-party services, such as cloud storage, AI providers, identity providers, file providers, collaboration platforms, operating system extensions, or external tools, data may be shared with those providers as necessary to provide the selected functionality.
+The seat of arbitration is Kyiv, Ukraine. The tribunal consists of one arbitrator unless the ICAC Rules require otherwise. The language is Ukrainian unless HAFYCH agrees in writing to English or the tribunal determines another language is necessary under the Rules. The substantive law is the law of Ukraine, subject to Section 19. The arbitration agreement is separable from the remaining Terms, and the tribunal may rule on its own jurisdiction.
 
-Your use of third-party services is subject to their own terms and privacy policies.
+### 18.4 Other Business Disputes
 
-12.5 Legal, Safety, and Enforcement Disclosures
+A Business dispute not subject to Section 18.3 will be submitted to a competent court of Ukraine, subject to mandatory jurisdiction rules. The parties consent to the maximum lawful territorial jurisdiction associated with the Provider’s stated Ukrainian contact location, without preventing interim or enforcement proceedings in another competent court.
 
-We may disclose data where we reasonably believe it is necessary to:
+### 18.5 Interim and Protective Relief
 
-* comply with applicable law, court orders, arbitration orders, subpoenas, lawful requests, tax rules, sanctions, export-control requirements, or regulatory obligations;
-* enforce these Terms;
-* investigate fraud, abuse, security incidents, payment disputes, chargebacks, unauthorized access, or license misuse;
-* protect the rights, safety, property, users, systems, business, or legal interests of HAFYCH or others;
-* respond to lawful requests from regulators, courts, law enforcement, arbitral institutions, mediators, experts, auditors, insurers, advisers, or other competent authorities.
+Nothing prevents HAFYCH from seeking interim, injunctive, conservatory, protective, evidentiary, asset-preservation, or enforcement relief in a competent court or before a platform or provider, including for intellectual property, non-payment, fraud, unauthorized access, entitlement circumvention, confidentiality, security, data misuse, evidence preservation, or unlawful redistribution.
 
-12.6 Business Transfers
+### 18.6 Individual Proceedings and Collective Actions
 
-We may disclose or transfer data in connection with an actual or proposed merger, acquisition, financing, restructuring, reorganization, bankruptcy, sale of assets, transfer of business, assignment, or similar transaction.
+To the maximum extent permitted by law, direct claims by a user must be brought on an individual basis and not as a plaintiff or class member in a purported class, collective, coordinated, consolidated, representative, or mass proceeding. For Business Users, no claims of different claimants may be consolidated and no representative proceeding may be pursued without HAFYCH’s prior written consent, except where mandatory law or the applicable tribunal rules require otherwise.
 
-12.7 No Sale of Local Private Content
+This Section does not restrict a regulator, public authority, or qualified entity from exercising powers that applicable law does not allow a contract to waive, including a legally authorized representative action for collective consumer interests.
 
-We do not sell private content that remains locally stored on your device.
+### 18.7 Costs
 
-⸻
+Costs, fees, and advances are allocated under mandatory law and the applicable court or arbitration rules. In a Business dispute, the prevailing party may request recovery of reasonable documented legal, expert, translation, travel, technical, and administrative costs to the maximum extent permitted. A party that files in the wrong forum, disregards a valid arbitration clause, or pursues a manifestly abusive claim may be ordered to reimburse resulting costs where the decision-maker has authority to do so.
 
-13. International Transfers
+## 19. Governing Law and Mandatory Rights
 
-Your data may be processed in countries other than your country of residence, including by app stores, SDK vendors, payment providers, analytics providers, crash-reporting providers, infrastructure providers, AI providers, cloud services, and other third parties.
+These Terms and non-contractual obligations arising from them are governed by the law of Ukraine, excluding conflict-of-laws rules, except to the extent a mandatory rule requires another result. For a Consumer, this choice does not deprive the Consumer of mandatory protection provided by the law of the country in which the Consumer habitually resides where applicable conflict-of-laws rules preserve that protection.
 
-Where required by applicable law, we will use appropriate safeguards or transfer mechanisms, such as contractual protections, standard contractual clauses, adequacy decisions, or other lawful transfer mechanisms.
+If a provision is invalid or unenforceable, it will be limited or reformed only to the minimum extent necessary, and the remainder will continue in force. No provision requires conduct prohibited by mandatory law.
 
-You acknowledge that third-party providers may independently determine where and how they process data under their own terms and privacy policies.
+## 20. Changes to the Terms or Apps
 
-⸻
+HAFYCH may update these Terms for legal, security, platform, provider, feature, or operational reasons. The revised version will identify its effective date and be posted on the Website, in an App, or through the relevant platform. A change will not retroactively eliminate a vested Consumer right or impose a material new payment obligation without any notice or consent required by law.
 
-14. Retention and Deletion
+Continued use after the effective date constitutes acceptance to the extent permitted by law. If you do not accept a change, you must stop using the affected App and cancel any future renewal through the platform. Terms applicable at the time of a completed purchase continue to govern acquired rights to the extent mandatory law requires.
 
-14.1 Local Content
+## 21. Miscellaneous
 
-Local content remains on your device until you delete it, reset the App, uninstall the App, clear App data, remove relevant files, delete backups, or otherwise manage it through your device, operating system, or storage provider.
+### 21.1 Entire Agreement and Order of Precedence
 
-Uninstalling an App may not delete exported files, backups, files saved to shared storage, files stored in cloud services, or content shared with other apps or users.
+These Terms, the Privacy Policy, the Current Technical and Privacy Schedule, applicable App-specific terms, and any separately signed agreement form the entire agreement concerning the Apps. A separately signed agreement controls to the extent of an express conflict. Platform terms control only for the platform-controlled matter. Marketing, screenshots, store descriptions, support communications, and documentation do not create a warranty or obligation beyond mandatory law unless expressly incorporated into a signed agreement.
 
-14.2 Support and Communications
+### 21.2 Assignment
 
-Support records, emails, attachments, logs, screenshots, diagnostic files, and related communications may be retained for as long as reasonably necessary to:
+You may not assign or transfer these Terms or an entitlement without prior written consent, except where mandatory law permits transfer. HAFYCH may assign or transfer these Terms in connection with a sale, reorganization, financing, inheritance, succession, merger, transfer of an App or intellectual property, or another lawful business transfer, provided mandatory Consumer rights are preserved.
 
-* handle the request;
-* maintain business records;
-* prevent abuse;
-* enforce these Terms;
-* defend or bring legal claims;
-* comply with legal, tax, accounting, and compliance obligations.
+### 21.3 No Waiver
 
-14.3 Purchase, Licensing, and Entitlement Records
+Failure or delay in enforcing a right is not a waiver. A waiver must be express and applies only to the specific circumstance stated.
 
-Purchase, subscription, licensing, entitlement, refund, chargeback, and accounting records may be retained for as long as necessary for billing, tax, accounting, fraud prevention, legal compliance, platform compliance, dispute handling, and enforcement.
+### 21.4 Relationship
 
-14.4 SDK and Platform Data
+These Terms do not create employment, agency, partnership, fiduciary, franchise, joint venture, or exclusive relationship. Neither party may bind the other except as expressly stated.
 
-Data collected by app stores, operating systems, SDK vendors, analytics providers, crash-reporting providers, advertising networks, payment providers, and other third parties is retained according to their own retention schedules and privacy policies.
+### 21.5 Force Majeure
 
-14.5 Security and Abuse Data
+To the maximum extent permitted by law, HAFYCH is not liable for delay, interruption, degradation, or non-performance caused by events beyond reasonable control, including war, invasion, civil unrest, sanctions, government action, app-store or provider action, telecommunications or power failure, cloud or platform outage, cyberattack not caused by HAFYCH’s intentional misconduct, natural disaster, epidemic, supplier failure, or operating-system change. This does not exclude a mandatory Consumer refund or remedy that cannot lawfully be waived.
 
-Security, fraud-prevention, licensing, diagnostic, and abuse-prevention data may be retained for as long as reasonably necessary to protect the Apps, users, systems, rights, and business interests, or as required by law.
+### 21.6 Language
 
-14.6 Deletion Requests
+The controlling language is English. A translation may be provided for convenience. Where mandatory law requires a local-language version to control for a particular Consumer or transaction, that requirement prevails only to the necessary extent.
 
-Where applicable law gives you the right to request deletion of personal data, you may contact us using the contact details in Section 26.
+## 22. Platform-Specific Terms
 
-Because much of the content may be stored locally on your device or controlled by third-party providers, we may not be able to delete data that:
+### 22.1 Google Play
 
-* we do not possess or control;
-* is stored only on your device;
-* is stored in your backups;
-* has been exported or shared by you;
-* is held by third-party providers under their own terms;
-* must be retained for legal, accounting, tax, security, dispute, enforcement, or compliance reasons.
+For an App obtained through Google Play or Managed Google Play, the agreement is between you and HAFYCH, not Google, except to the extent Google’s mandatory terms state otherwise. Google may distribute the App, process payments, manage subscriptions, restore purchases, or enforce platform rules. HAFYCH is responsible for the App and App support to the extent stated in these Terms or required by law. You must comply with Google Play terms and may manage subscriptions and refunds through Google’s interfaces.
 
-⸻
+The Privacy Policy and Current Technical and Privacy Schedule must be read together with the Google Play Data safety section. HAFYCH is responsible for keeping store declarations consistent with the released App and embedded SDKs. Because HAFYCH does not offer a HAFYCH user-account system, an in-App HAFYCH account-deletion function is not currently applicable; requests concerning data HAFYCH or RevenueCat controls may be sent to the contact email.
 
-15. Security, Encryption, and User Responsibility
+### 22.2 Apple Distribution, If Introduced
 
-We use reasonable technical and organizational measures designed to protect data processed by us. However, no system, app, device, network, encryption method, storage method, or transmission method is completely secure.
+This Section applies only if an App is later distributed through Apple. The license is between you and HAFYCH, not Apple. HAFYCH, not Apple, is responsible for the App, maintenance, support, warranties that cannot be disclaimed, product claims, legal compliance, and intellectual-property claims to the extent required by law. The license is limited to Apple-branded products you own or control as permitted by Apple’s usage rules. Apple has no maintenance or support duty.
 
-Some Apps or features may provide local encryption, end-to-end encryption, password-based protection, zero-knowledge-style functionality, secure storage, or other privacy/security features. These protections apply only to the specific features where they are actually implemented and correctly configured.
+If an Apple-distributed App fails to conform to a warranty that cannot be disclaimed, you may notify Apple and Apple may refund the purchase price under its terms. Apple has no other warranty obligation to the maximum extent permitted. You must comply with applicable third-party agreements and represent that you are not prohibited by applicable United States sanctions or restricted-person lists. Apple and its subsidiaries are intended third-party beneficiaries of this Apple-specific Section and may enforce it.
 
-Where an App states that local encryption, end-to-end encryption, or zero-knowledge-style protection is provided for a specific feature:
+## 23. Contact
 
-* we may not possess plaintext content for that feature;
-* we may not possess the password, recovery phrase, private key, or other secret necessary to restore access;
-* we may be unable to recover your content if you lose your device, password, key, recovery material, or backup.
+**Nazarii Hafych / HAFYCH:** Natural person and independent software developer
 
-You are responsible for:
+**Public contact address:** Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
 
-* safeguarding devices, credentials, passwords, API keys, recovery phrases, backups, exported files, and local storage;
-* using strong passwords and secure device settings;
-* controlling access by employees, contractors, agents, and other users;
-* managing permissions and third-party integrations;
-* complying with internal security and privacy policies;
-* maintaining backups where needed.
+**Telephone:** +48 571 088 639
 
-Weak passwords, unsafe exports, insecure backups, screenshots, malware, compromised devices, shared accounts, unauthorized access, user error, or unsafe third-party services may defeat security protections.
+**Email:** nazariihafych@gmail.com
 
-We do not guarantee that the Apps are invulnerable, anonymous, non-attributable, uninterrupted, or immune from interception, correlation, deanonymization, data loss, unauthorized access, or disruption.
+**Website:** [https://hafych.github.io/](https://hafych.github.io/)
 
-⸻
+<br>
 
-16. Your Privacy Rights
+**PART II**
 
-Depending on your location and applicable law, you may have rights regarding your personal data, including the right to:
+<a id="privacy-policy"></a>
 
-* request access to personal data we hold about you;
-* request correction of inaccurate or incomplete personal data;
-* request deletion of personal data;
-* request restriction of processing;
-* object to processing based on legitimate interests;
-* request portability of certain data;
-* withdraw consent where processing is based on consent;
-* lodge a complaint with a competent data protection authority.
+# PRIVACY POLICY
 
-To exercise your rights, contact us at:
+*Last Updated: 28 July 2026  |  Effective Date: 28 July 2026*
 
-nazariihafych@gmail.com⁠￼
+> **SUMMARY: HAFYCH DOES NOT CURRENTLY OPERATE A USER-ACCOUNT SYSTEM OR A BACKEND FOR STORING ORDINARY USER CONTENT. CONTENT MAY REMAIN ON THE DEVICE OR BE SENT DIRECTLY TO A USER-SELECTED CLOUD PROVIDER. REVENUECAT AND APP STORES PROCESS PURCHASE AND ENTITLEMENT DATA. HAFYCH MAY PROCESS SUPPORT EMAILS AND LIMITED PURCHASE INFORMATION AVAILABLE THROUGH PROVIDER DASHBOARDS.**
 
-We may need to verify your identity, authority, business relationship, purchase, license, or account before responding. Where a request is made on behalf of an organization, employee, contractor, customer, or another person, we may require evidence of authority.
+## 1. Controller and Contact
 
-These rights may be limited where data is local-only, controlled by a third party, required for legal compliance, necessary for security, needed for dispute handling, or otherwise exempt under applicable law.
+For personal data processed by HAFYCH for its own purposes, the controller is Nazarii Hafych, acting under the HAFYCH brand. HAFYCH is not a separate legal entity.
 
-⸻
+**Controller:** Nazarii Hafych
 
-17. Children and Minors
+**Public contact address:** Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
 
-The Apps are intended only for business, professional, trade, institutional, organizational, or other non-consumer use.
+**Telephone:** +48 571 088 639
 
-The Apps are not directed to children and are not intended for use by minors for personal, family, household, or consumer purposes.
+**Privacy email:** nazariihafych@gmail.com
 
-You must not use the Apps to knowingly collect, process, store, transmit, or disclose children’s personal data unless you have all required legal authority, notices, consents, safeguards, and compliance measures required by applicable law.
+**Website:** https://hafych.github.io/
 
-If you believe that a child has provided personal data to us in violation of this Privacy Policy, contact us at nazariihafych@gmail.com⁠￼.
+No data protection officer has been appointed. Privacy requests are handled directly by Nazarii Hafych through the email above. This statement does not prevent appointment of a data protection officer or representative if later required by law.
 
-⸻
+## 2. Scope and Privacy Roles
 
-18. Cookies and Similar Technologies
+This Privacy Policy applies to the Apps and Website. Actual processing varies by App, operating system, permissions, purchase status, provider configuration, and feature selection. Part III states the current shared architecture known to HAFYCH. A store disclosure or permission prompt may provide additional App-specific detail.
 
-If we operate websites, web apps, landing pages, documentation, support pages, or web-based services related to the Apps, we or our providers may use cookies, local storage, pixels, SDKs, device identifiers, or similar technologies.
+### 2.1 HAFYCH as Controller
 
-These technologies may be used to:
+HAFYCH acts as controller for data it decides to process for support, legal notices, security, entitlement administration, enforcement, product management, and its own compliance. HAFYCH may receive limited purchase and subscription information through Google Play or RevenueCat dashboards even though it does not process the underlying payment card.
 
-* provide website or app functionality;
-* remember preferences;
-* maintain security;
-* analyze traffic and performance;
-* detect abuse or fraud;
-* measure advertising or attribution where applicable;
-* improve user experience.
+### 2.2 Organizations and Business Users
 
-Where required by law, we will request consent for non-essential cookies or similar technologies.
+An organization using an App for its own purposes normally determines why and how its personnel or other persons’ content is handled and is responsible for its own notices, legal bases, permissions, employment rules, security, and data-subject requests. HAFYCH acts as processor only to the extent it processes personal data on documented instructions for a Business User and Part IV applies.
 
-You can manage cookies through your browser settings. Blocking cookies may affect website or app functionality.
+### 2.3 Independent Third Parties
 
-⸻
+Google, Apple, RevenueCat, Google Drive, GitHub, operating-system file providers, device manufacturers, and other providers may act as processors, service providers, or independent controllers depending on the service and legal context. Their own privacy notices govern processing they independently determine.
 
-General Terms
+## 3. Current Data Architecture
 
-19. Intellectual Property
+1. No HAFYCH account system. Users do not create a HAFYCH username or password.
 
-The Apps, including software, source code, object code, algorithms, architecture, branding, logos, design, text, graphics, interfaces, documentation, databases, compilations, icons, layouts, features, trade names, domain names, and related intellectual property, are owned by us or our licensors and are protected by applicable law.
+2. No HAFYCH content backend. HAFYCH does not operate a server that stores ordinary User Content.
 
-Except for the limited license expressly granted in these Terms, no rights are granted to you.
+3. Local or user-selected storage. Content may remain on the device, be sent directly to Google Drive, or be stored in a folder or file provider that the user selects through the operating system.
 
-You shall not contest, challenge, or assist others in contesting our ownership or rights in the Apps, except to the extent such restriction is prohibited by mandatory law.
+4. Subscription infrastructure. RevenueCat and the relevant app store may process purchase history, App User IDs, receipts or purchase tokens, entitlement status, and technical metadata.
 
-All trademarks, service marks, logos, and trade names used in connection with third-party services remain the property of their respective owners.
+5. Direct support. HAFYCH may receive email, attachments, screenshots, or diagnostic information only when a person contacts support or sends a legal or privacy request.
 
-⸻
+6. Static Website. The Website is hosted through GitHub Pages; GitHub may process request and security data under its own terms.
 
-20. Feedback
+The absence of a HAFYCH backend does not mean that no data leaves a device. App stores, RevenueCat, selected cloud providers, operating systems, and network providers may process data needed for their functions.
 
-If you submit ideas, suggestions, bug reports, improvements, comments, feature requests, recommendations, designs, proposals, or other feedback, you grant us a worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free right to use, reproduce, modify, adapt, publish, distribute, commercialize, and incorporate that feedback without restriction or compensation.
+## 4. Data HAFYCH and Providers May Process
 
-We are not obligated to use, maintain, keep confidential, or respond to feedback.
+### 4.1 Local User Content
 
-⸻
+Depending on the App, local User Content may include files, notes, text, settings, metadata, documents, images, audio, exports, backups, or other material selected by the user. HAFYCH does not receive ordinary local content merely because the App stores or displays it. Local content remains under the control of the device, operating system, user, and any selected storage provider.
 
-21. Third-Party Services
+### 4.2 Google Drive and User-Selected File Providers
 
-The Apps may interoperate with, link to, depend on, or rely on third-party services, app stores, networks, devices, browsers, operating systems, telecom carriers, cloud providers, SDKs, relays, AI providers, payment providers, file providers, and infrastructure.
+When a user enables Google Drive or chooses a folder or file provider through the operating system, the App and provider may process selected file contents, names, identifiers, folder references, metadata, timestamps, synchronization status, authorization scopes, tokens, and error information necessary for the requested action. Google Drive uses the narrow drive.file scope. A folder exposed by an Apple operating system can be backed by iCloud Drive, but Writer Studio has no separate CloudKit or iCloud entitlement. Transfers occur directly between the device and selected provider; HAFYCH has no content server that receives the file.
 
-Those third parties may have their own terms, privacy policies, fees, restrictions, service levels, security practices, and data processing rules.
+### 4.3 RevenueCat Subscription and Entitlement Data
 
-We are not responsible for third-party products or services outside our reasonable control.
+RevenueCat may process an App User ID assigned by its SDK or provided by the App, purchase history, product identifiers, store, subscription status, entitlement status, trial status, renewal, cancellation, expiration, refund and transaction events, receipt or purchase-token information, currency, locale, country or region, App version, platform version, SDK version, and timestamps. HAFYCH may access customer and transaction views in the RevenueCat dashboard for entitlement support, purchase analytics, fraud prevention, and product operation.
 
-We do not guarantee that third-party services will remain available, compatible, secure, lawful, or unchanged.
+HAFYCH does not operate its own user-account system and does not require a name, email address, or telephone number to create a HAFYCH account. The inspected Writer Studio release configuration uses an automatically generated anonymous RevenueCat App User ID, does not set RevenueCat Customer Attributes or advertising identifiers, has no third-party analytics or attribution integration, and intentionally has no application webhook because there is no HAFYCH backend. Google Play RTDN is connected to RevenueCat for subscription-state updates. Store declarations must be updated if this configuration changes.
 
-Your use of third-party services is at your own risk and may be subject to additional terms.
+### 4.4 Google Play and Future Apple Purchases
 
-⸻
+The relevant app store may process account information, payment information, device and technical data, purchase history, receipts, order identifiers, country or region, tax information, refund status, and fraud or security signals. HAFYCH generally receives only limited product, transaction, entitlement, refund, and status information necessary to supply or support the purchase. HAFYCH does not receive a complete payment-card number or CVV from the app store.
 
-22. Suspension and Termination
+### 4.5 Support, Privacy, Security, and Legal Communications
 
-We may suspend, restrict, disable, terminate, revoke, or refuse access to all or part of the Apps immediately, with or without notice, if:
+If you contact HAFYCH, HAFYCH may process your email address, name if provided, organization if provided, message, attachments, screenshots, device or App information, purchase information, RevenueCat App User ID, diagnostic details, and HAFYCH’s response and internal notes. Do not provide information that is not necessary for the request.
 
-* you violate these Terms;
-* we suspect fraud, abuse, unlawful activity, export-control or sanctions issues, or a security risk;
-* required by law, court order, platform rule, arbitral order, or governmental request;
-* a feature, provider, SDK, network, platform, entitlement system, payment mechanism, or dependency is discontinued, restricted, blocked, or becomes unavailable;
-* you initiate a payment reversal, abusive refund request, unauthorized redistribution, license sharing, account sharing, key sharing, or other misuse of the Apps;
-* continuing to provide access may expose us, users, third parties, or platforms to legal, security, financial, operational, or reputational risk.
+### 4.6 Website and GitHub Pages
 
-Upon termination, your license ends immediately and you must stop using the affected Apps and paid features. We may also disable keys, entitlements, updates, hosted dependencies, cloud features, integrations, or support access.
+The Website is hosted at https://hafych.github.io/ using GitHub Pages. GitHub and network providers may process IP address, browser and device information, request time, requested page, referrer, security events, cookies or similar data, and logs under their own terms. HAFYCH does not intentionally place advertising cookies or run its own advertising network on the static Website.
 
-Termination or suspension does not relieve you of payment obligations, indemnity obligations, confidentiality duties, compliance obligations, or any other obligations intended to survive.
+### 4.7 Device and App Technical Data
 
-Sections that by their nature should survive termination will survive, including payment, taxes, intellectual property, privacy, security, disclaimers, liability limits, indemnity, dispute resolution, governing law, and cost recovery provisions.
+An App, operating system, app store, or embedded provider may process App version, package or bundle identifier, device type, operating-system version, locale, region, timestamps, installation or App-instance identifiers, network information, and error or performance information necessary to operate the App, enforce purchases, or provide a selected feature. HAFYCH does not state that every listed data type is collected by every App.
 
-⸻
+Writer Studio keeps a limited list of diagnostic and UX events in local memory for the current App session and may print them to debug logs in a debug build. The current release does not send those events to a HAFYCH analytics backend. RevenueCat separately processes subscription and purchase analytics as described above.
 
-23. Force Majeure
+### 4.8 AI Prompts and System Clipboard
 
-To the maximum extent permitted by law, we are not liable for any delay, failure, degradation, interruption, suspension, loss, or non-performance caused directly or indirectly by events beyond our reasonable control, including:
+The current Writer Studio editor AI actions create copy-ready prompts and place them on the device’s system clipboard. They do not automatically send manuscript text to HAFYCH, OpenAI, or another AI provider. Clipboard content is controlled by the operating system and user; it leaves the device only if the user pastes or otherwise sends it to an external service. Any future built-in transmission to an AI provider requires an updated disclosure before activation.
 
-* war, invasion, hostilities, sabotage, terrorism, civil unrest, revolution, occupation, blockade, or embargo;
-* sanctions, export restrictions, government orders, regulatory action, or legal restrictions;
-* telecommunications failure, internet disruption, routing failure, relay failure, DNS failure, cloud outage, platform outage, or app store outage;
-* power failure, fire, flood, natural disaster, epidemic, pandemic, severe weather, or environmental event;
-* labor disputes, supplier failure, infrastructure failure, SDK outage, service provider failure, or unavailability of third-party dependencies;
-* cyberattacks, denial-of-service attacks, malware outbreaks, security incidents, credential compromise, or unauthorized access not caused by our wilful misconduct;
-* failures, restrictions, changes, or removals by app stores, operating systems, cloud services, payment providers, AI providers, analytics providers, notification providers, or other third-party platforms.
+### 4.9 Permissions
 
-⸻
+An App may request a device permission only when required for a user-selected function. The operating system presents the applicable permission description and allows the user to grant, deny, or revoke access. Denial may prevent the relevant feature from working. No permission should be treated as authorization for an unrelated purpose. Exact permissions must remain consistent with the released App and store listing.
 
-24. Disclaimers
+## 5. Data HAFYCH Does Not Intentionally Collect
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE APPS ARE PROVIDED “AS IS” AND “AS AVAILABLE.”
+Based on the current stated configuration, HAFYCH does not intentionally:
 
-WE DISCLAIM ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, NON-INFRINGEMENT, AVAILABILITY, ACCURACY, RELIABILITY, SECURITY, COMPATIBILITY, OR RESULTS.
+- operate a HAFYCH user-account database or require a HAFYCH username and password;
 
-WE DO NOT WARRANT THAT:
+- operate a backend that stores ordinary User Content;
 
-* the Apps will be uninterrupted, error-free, secure, private, or continuously available;
-* bugs, vulnerabilities, defects, compatibility issues, or data loss will be identified, prevented, or fixed;
-* messages, calls, file transfers, exports, imports, backups, sync, AI outputs, cloud integrations, or notifications will be delivered, timely, accurate, secure, complete, or recoverable;
-* the Apps will meet your requirements or be compatible with all devices, platforms, regions, laws, networks, storage providers, SDKs, or third-party services;
-* any encryption, zero-knowledge, privacy-related, local-first, anonymizing, peer-to-peer, Tor, WebRTC, or security feature will protect against all threats, endpoints, user error, malware, local compromise, account compromise, lawful access requests, traffic analysis, correlation attacks, deanonymization, or third-party disclosure;
-* any AI-related output, suggestion, completion, summary, recommendation, or generated content will be accurate, lawful, non-infringing, safe, complete, reliable, or suitable for your business purpose;
-* third-party services will remain available, compatible, lawful, secure, or unchanged.
+- receive complete payment-card numbers, CVV values, or online-banking passwords;
 
-You are solely responsible for determining whether the Apps are suitable for your business, professional, legal, security, compliance, confidentiality, privacy, and technical requirements.
+- sell User Content or personal data;
 
-⸻
+- use an HAFYCH advertising network or intentionally track users across unrelated apps or websites for targeted advertising;
 
-25. Limitation of Liability
+- ask for a date of birth or independently verify age;
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+- employ personnel or contractors who routinely access User Content; or
 
-* we are not liable for any indirect, incidental, special, consequential, exemplary, punitive, enhanced, or multiple damages;
-* we are not liable for any loss of profits, revenue, goodwill, business opportunity, data, content, files, documents, reputation, contracts, expected savings, business interruption, device value, or commercial advantage;
-* we are not liable for loss, corruption, deletion, exposure, interception, unavailability, or failure to recover data, content, backups, files, credentials, keys, API keys, passwords, tokens, or recovery materials;
-* we are not liable for loss resulting from your failure to safeguard credentials, devices, backups, exported files, API keys, recovery materials, cloud accounts, third-party integrations, or internal compliance procedures;
-* we are not liable for acts or omissions of users, peers, collaborators, employees, contractors, agents, relay operators, network operators, app stores, device manufacturers, operating systems, telecom providers, cloud providers, payment processors, AI providers, SDK vendors, analytics providers, advertising networks, or other third parties outside our reasonable control;
-* we are not liable for any use of the Apps in high-risk, prohibited, unlawful, consumer, or unauthorized contexts.
+- collect sensitive content merely because a user stores it locally or in a user-selected cloud account.
 
-IF YOU HAVE AN ACTIVE OR RECENT PAID SUBSCRIPTION, OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE APPS WILL NOT EXCEED THE TOTAL SUBSCRIPTION FEES ACTUALLY PAID BY YOU FOR THE SIX (6) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+This Section is limited to HAFYCH’s intentional practices. Operating systems, app stores, RevenueCat, cloud providers, GitHub, and networks may process data independently. A released build or provider configuration that introduces another data flow must be disclosed before or when it becomes active.
 
-IF YOU MADE ONLY A ONE-TIME PURCHASE, OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE APPS WILL NOT EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY YOU FOR THAT PURCHASE.
+## 6. Purposes and Legal Bases
 
-IF YOU USED ONLY FREE, TRIAL, BETA, PREVIEW, OR UNPAID FEATURES, OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE APPS WILL BE ZERO TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+Where the GDPR, UK GDPR, or another law requires a legal basis, HAFYCH may process personal data for the following purposes and bases:
 
-NOTHING IN THESE TERMS EXCLUDES OR LIMITS LIABILITY TO THE EXTENT SUCH EXCLUSION OR LIMITATION IS PROHIBITED BY MANDATORY APPLICABLE LAW.
+| **Purpose** | **Typical data** | **Typical legal basis** |
+| --- | --- | --- |
+| Provide and restore purchases and entitlements | Purchase history, App User ID, product and entitlement status | Performance of contract; legitimate interests in reliable licensing and fraud prevention |
+| Respond to support, privacy, security, and legal requests | Email, message, attachments, identifiers, diagnostic details | Performance of contract or pre-contract steps; legitimate interests; legal obligation |
+| Protect Apps, users, rights, and provider accounts | Security, entitlement, transaction, abuse, and communication records | Legitimate interests; legal obligations; establishment, exercise, or defense of legal claims |
+| Comply with law, sanctions, tax, accounting, platform, and court requirements | Transaction, identity, correspondence, and legal records | Legal obligation; legitimate interests in compliance and defense |
+| Improve product and subscription operation | Aggregated or pseudonymous purchase and entitlement information | Legitimate interests; consent where legally required for optional processing |
+| Enable user-selected cloud or file-provider features | Selected content, file metadata, and authorization data handled on device or by provider | Performance of the user’s request; consent or provider authorization where required |
 
-⸻
+HAFYCH will rely on consent where mandatory law requires it for a permission or optional processing. Consent may be withdrawn prospectively through the relevant setting or by contacting HAFYCH, but withdrawal does not invalidate earlier lawful processing.
 
-26. Indemnification
+## 7. Sharing and Recipients
 
-You agree to defend, indemnify, and hold harmless HAFYCH, Nazarii Hafych, affiliates, licensors, contractors, representatives, successors, assigns, service providers, and partners from and against any and all claims, demands, actions, proceedings, liabilities, losses, damages, judgments, settlements, penalties, fines, taxes, charges, costs, and reasonable legal fees arising out of or related to:
+HAFYCH may disclose limited personal data only where necessary and lawful to:
 
-* your use or misuse of the Apps;
-* your content, data, files, prompts, outputs, instructions, conduct, communications, or business activities;
-* your breach of these Terms;
-* your violation of law or third-party rights;
-* your users, employees, contractors, agents, customers, resellers, collaborators, or counterparties;
-* your payment disputes, chargebacks, sanctions issues, export-control issues, compliance failures, privacy violations, data misuse, or security failures;
-* any allegation that content, data, instructions, prompts, outputs, materials, files, or information supplied, processed, transmitted, generated, or used by you infringes, misappropriates, violates, or unlawfully uses any rights of another person;
-* your use of third-party services, cloud providers, AI providers, payment providers, storage providers, SDKs, or integrations;
-* your failure to obtain required permissions, consents, notices, licenses, or legal bases.
+- RevenueCat for subscription, purchase validation, entitlement, analytics, and fraud-prevention functions;
 
-This indemnity is independent of, and in addition to, any other remedies available to us.
+- Google Play or Apple for distribution, purchase, subscription, refund, tax, platform, security, and compliance functions;
 
-⸻
+- Google, Apple, Google Drive, or another user-selected operating-system file provider to perform a feature the user requests;
 
-27. Dispute Resolution
+- Google or an email provider to receive and respond to support, privacy, security, or legal email;
 
-27.1 Mandatory Written Notice and Good-Faith Negotiation
+- GitHub for Website hosting and related request processing;
 
-Before starting any formal claim, proceeding, lawsuit, arbitration, complaint, or other dispute process, the claimant must first send a written notice to nazariihafych@gmail.com⁠￼ describing:
+- professional advisers, courts, arbitral tribunals, regulators, law enforcement, platforms, insurers, or other authorities where reasonably necessary to establish, exercise, defend, enforce, or comply with legal rights and obligations; or
 
-* the full legal name and contact details of the claimant;
-* the contract, App, purchase, subscription, license, support request, or relationship involved;
-* the factual and legal basis of the dispute;
-* the specific relief requested;
-* copies of the key supporting documents.
+- a lawful successor or transferee in connection with a sale, assignment, succession, restructuring, financing, or transfer of an App or related rights, subject to applicable privacy law.
 
-The parties shall attempt in good faith to resolve the dispute informally for at least 90 calendar days from receipt of that notice.
+HAFYCH does not sell personal data. A user-directed transfer to Google Drive or a provider folder selected through the operating system is controlled by the user and the provider’s own terms.
 
-Notice sent by email is deemed received within 90 business days of sending, unless the sender receives a notice of undeliverability.
+## 8. International Transfers
 
-No claimant may commence formal proceedings before completion of this mandatory informal resolution period, except where immediate interim relief is reasonably necessary to prevent fraud, unauthorized access, chargeback abuse, intellectual property infringement, non-payment, evidence destruction, data misuse, confidentiality breach, security breach, or imminent irreparable harm.
+RevenueCat, Google, Apple, GitHub, cloud providers, and other Third-Party Services may process data in countries outside your residence, including outside the European Economic Area or United Kingdom. Where HAFYCH is legally responsible for a transfer, HAFYCH may rely on an adequacy decision, provider data-processing terms, standard contractual clauses, another approved transfer mechanism, or a specific lawful derogation. User-directed transfers to a selected provider are also subject to that provider’s terms and transfer safeguards.
 
-Failure to comply with this Section constitutes a material breach of these Terms and shall be taken into account, to the fullest extent permitted by applicable law, when allocating legal costs, fees, and expenses.
+## 9. Retention and Deletion
 
-27.2 Optional Mediation
+| **Category** | **Typical retention / control** |
+| --- | --- |
+| Local User Content | Until the user deletes it, clears App data, resets the device, or uninstalls the App; exported and backup copies may remain elsewhere. |
+| Google Drive or user-selected provider folder | Controlled by the user and provider. Deleting from the App may not delete the provider copy; deletion must also be performed through the provider. |
+| RevenueCat purchase and entitlement data | Retained under RevenueCat and app-store policies and as needed for entitlement, refund, fraud, tax, legal, and support purposes. HAFYCH may request deletion of a RevenueCat customer record where legally appropriate and technically identifiable. |
+| Support and ordinary correspondence | Ordinarily up to three years after the request is closed; longer where needed for a legal hold, repeated abuse, or an unresolved dispute. |
+| Legal notices and dispute records | Up to six years after final resolution, or longer where a mandatory limitation, enforcement, tax, or records rule requires it. |
+| Tax, accounting, purchase, refund, and compliance records | For the period required by applicable law, platform rules, or legitimate defense and audit needs, which may be up to ten years in some contexts. |
+| Website request data | Determined primarily by GitHub and network providers under their policies; HAFYCH does not operate a separate web-log backend. |
 
-If the dispute is not resolved during the informal resolution period, the parties may, by mutual written agreement, submit the dispute to mediation in accordance with the laws of Ukraine.
+### 9.1 Deletion Requests
 
-27.3 Domestic B2B Disputes
+You may request deletion of personal data controlled by HAFYCH by emailing nazariihafych@gmail.com with the subject “PRIVACY REQUEST.” HAFYCH may ask for information reasonably necessary to identify the relevant support record, transaction, or RevenueCat App User ID. HAFYCH cannot delete data it does not possess or control, including local files, user-controlled backups, Google Drive files, copies in a user-selected provider folder, app-store records, or provider data retained under the provider’s own legal obligations.
 
-If the dispute does not contain a foreign element, it shall be subject to the jurisdiction of the competent commercial courts of Ukraine.
+Because there is no HAFYCH user account, there is currently no HAFYCH account to delete. Users delete local data through App or device controls and delete cloud data through the selected provider. Purchase records may remain with Google, Apple, RevenueCat, tax authorities, or other providers where legally required.
 
-To the maximum extent permitted by applicable procedural law, the parties agree that territorial jurisdiction for such disputes shall be determined by the location of the provider.
+## 10. Privacy Rights
 
-27.4 International B2B Disputes
+Depending on applicable law, you may have the right to request access, correction, deletion, restriction, portability, or objection; withdraw consent; and lodge a complaint with a competent supervisory authority. These rights may be limited where HAFYCH does not control the data, cannot identify the record, must retain it, or has overriding legal grounds.
 
-If the dispute contains a foreign element and is arbitrable under applicable law, it shall be finally resolved by the International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry (ICAC at the UCCI) in accordance with its Rules.
+To exercise a right, email nazariihafych@gmail.com with the subject “PRIVACY REQUEST.” HAFYCH may verify identity or authority in a proportionate manner. Do not send a passport or other high-risk identity document unless HAFYCH specifically explains why a less intrusive method is insufficient.
 
-The seat of arbitration shall be Kyiv, Ukraine.
+A person in the European Union may complain to the supervisory authority in the Member State of habitual residence, place of work, or alleged infringement. A person in another jurisdiction may contact the local authority available under applicable law.
 
-The language of the arbitration shall be Ukrainian, unless we agree otherwise in writing.
+## 11. Children and Age
 
-The number of arbitrators shall be one, unless the applicable Rules require otherwise.
+The Apps are intended only for persons aged 18 or older and are not directed to children. HAFYCH does not ask for a date of birth or operate an account system that independently verifies age. A person under 18 must not use the Apps. If HAFYCH learns that it directly controls personal data submitted by a person under 18 in violation of this Policy, HAFYCH will take reasonable steps to delete or restrict it, subject to legal requirements.
 
-The substantive law governing the dispute shall be the law of Ukraine, excluding conflict-of-laws rules to the extent permitted by law.
+## 12. Sensitive Data
 
-27.5 Court Referral to Arbitration
+A user may choose to place sensitive or regulated information in local files or a user-selected cloud account. HAFYCH does not receive that content merely because the App handles it. Do not send sensitive data to HAFYCH support unless necessary and lawful. The Apps are not represented as certified for regulated medical records, payment cards, classified information, critical infrastructure, or child data unless an App-specific notice expressly states otherwise.
 
-Where a valid arbitration agreement under Section 27.4 applies, any party against whom court proceedings are brought may request referral of the dispute to arbitration in accordance with applicable law.
+## 13. Security
 
-27.6 Interim, Protective, and Enforcement Relief
+HAFYCH applies measures reasonably appropriate to the limited data and systems it controls, including limiting direct access to provider accounts and avoiding a HAFYCH User Content backend in the current architecture. Third-Party Services maintain their own security. No security measure is absolute, and HAFYCH does not guarantee that an App, provider, device, network, or storage location is invulnerable.
 
-Nothing in these Terms prevents HAFYCH from seeking interim, injunctive, protective, conservatory, evidentiary, enforcement, or asset-preservation relief before the competent courts of Ukraine or any other competent authority, including in relation to:
+Users are responsible for device security, operating-system updates, passwords, cloud-account security, file permissions, backups, recovery material, and safe exports. Security concerns may be reported to nazariihafych@gmail.com. Do not publicly disclose a vulnerability before allowing a reasonable opportunity to investigate and remediate, unless applicable law protects a different disclosure process.
 
-* intellectual property;
-* non-payment;
-* chargeback abuse;
-* fraud;
-* unauthorized access;
-* misuse of the Apps;
-* confidentiality or data security breaches;
-* evidence preservation;
-* attachment, freezing, or preservation of assets;
-* unlawful redistribution, license sharing, or entitlement circumvention.
+## 14. Advertising, Tracking, and Automated Decisions
 
-27.7 Advance Costs
+HAFYCH does not intentionally sell personal data or operate cross-app behavioral advertising. RevenueCat processes purchase history for App functionality and subscription analytics and may process additional identifiers or attributes if configured. App stores and operating systems may independently process data for their own security, measurement, advertising, or platform purposes under their policies.
 
-To the maximum extent permitted by applicable law and applicable arbitration or procedural rules, the party initiating a claim, complaint, arbitration, or other formal proceeding shall bear all filing fees, registration fees, administrative fees, courier costs, translation costs, and other advance procedural costs required to commence and maintain such proceeding, unless the competent court or arbitral tribunal determines otherwise.
+HAFYCH does not currently make a decision that produces legal or similarly significant effects solely by automated processing of a user’s personal data. Entitlement validation may automatically enable or disable paid features based on platform purchase status.
 
-27.8 Recovery of HAFYCH Costs
+## 15. Cookies and Website Technologies
 
-To the maximum extent permitted by applicable law, the claimant shall reimburse HAFYCH for all reasonable and documented legal fees, representation costs, expert fees, translation costs, travel expenses, administrative costs, technical review costs, and other dispute-related expenses incurred by HAFYCH if the claim:
+The static Website may use cookies, local storage, security mechanisms, or request logs supplied by GitHub Pages, the browser, or network providers. HAFYCH does not intentionally place advertising cookies on the Website. Browser controls may be used to block or delete cookies, although provider functionality may be affected.
 
-* is dismissed in whole or in substantial part;
-* is denied;
-* is withdrawn, discontinued, or abandoned;
-* is left without consideration;
-* is filed in the wrong forum;
-* is filed despite a valid arbitration or forum-selection clause;
-* is found inadmissible or outside jurisdiction;
-* is found abusive, vexatious, manifestly unfounded, inflated, or brought in bad faith;
-* is brought after failure to comply with the mandatory pre-dispute procedure in Section 27.1.
+## 16. Changes to this Privacy Policy
 
-27.9 No Contractual Cost Recovery Against HAFYCH
+HAFYCH may update this Policy to reflect an App, provider, law, store requirement, or data-flow change. The revised version will identify its effective date and be made available through the Website, App, or store. Where law requires notice or consent for a material new use, HAFYCH will provide it before or when the new processing begins.
 
-Except to the extent mandatorily required by applicable law or expressly awarded by the competent court or arbitral tribunal under applicable procedural rules, no claimant shall have any contractual right under these Terms to recover from HAFYCH any attorneys’ fees, legal fees, expert fees, translation expenses, travel expenses, administrative costs, enforcement costs, or other dispute-related expenses.
+## 17. Contact
 
-For the avoidance of doubt, these Terms do not create any independent or enhanced contractual entitlement for any claimant to recover dispute-related costs from HAFYCH beyond what is non-waivably required by applicable law or expressly awarded by the competent court or arbitral tribunal.
+**Privacy controller:** Nazarii Hafych / HAFYCH
 
-27.10 No Override of Mandatory Rules
+**Email:** nazariihafych@gmail.com
 
-Nothing in these Terms shall be interpreted as excluding or overriding any mandatory rules of applicable law governing access to courts, arbitrability, allocation of court costs, enforcement, or judicial supervision of arbitral awards.
+**Telephone:** +48 571 088 639
 
-27.11 Individual Basis Only
+**Public contact address:** Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
 
-To the maximum extent permitted by applicable law, claims must be brought only on an individual basis and not as a plaintiff or class member in any purported class, collective, representative, coordinated, consolidated, or mass proceeding.
+**Website:** [https://hafych.github.io/](https://hafych.github.io/)
 
-27.12 Survival
+<br>
 
-This Section survives termination of these Terms.
+**PART III**
 
-⸻
+# CURRENT TECHNICAL AND PRIVACY SCHEDULE
 
-28. Governing Law
+*Applies to the shared architecture reported for current HAFYCH Apps as of 28 July 2026*
 
-These Terms, and any contractual or non-contractual obligations arising out of or in connection with them, shall be governed by and interpreted in accordance with the laws of Ukraine, excluding conflict-of-laws rules to the extent permitted by law.
+> **This Schedule is a factual supplement to the Privacy Policy. It does not claim that every HAFYCH App uses every optional feature. A released App’s store declaration and permission prompts must be narrower and exact for that package and version.**
 
-For disputes that are not subject to arbitration under Section 27.4, the competent courts of Ukraine shall have jurisdiction.
+## 1. Provider and Distribution
 
-If any part of the dispute resolution provisions is found invalid or unenforceable, the remaining parts shall remain in effect to the maximum extent permitted by law, and the dispute shall be resolved by the competent courts of Ukraine or the competent arbitral tribunal, as applicable.
+**Provider:** Nazarii Hafych / HAFYCH
 
-⸻
+**Current confirmed store distribution:** Google Play
 
-29. Changes to These Terms and Privacy Policy
+**Apple App Store distribution:** Not currently used as of 28 July 2026
 
-We may modify these Terms and Privacy Policy from time to time.
+**Website:** https://hafych.github.io/
 
-Changes become effective when posted or otherwise communicated, unless a later date is stated.
+**User accounts:** No HAFYCH account, login, or registration system
 
-If a change materially affects your rights or obligations, we may provide additional notice where required by law.
+**HAFYCH backend:** None for ordinary User Content
 
-By continuing to use the Apps after revised Terms or Privacy Policy become effective, you agree to the revised Terms and Privacy Policy to the extent permitted by applicable law.
+**Employees or contractors with content access:** None; the Provider acts alone
 
-If you do not agree, you must stop using the Apps and, where appropriate, cancel your subscription.
+**Minimum age:** 18 years
 
-⸻
+**Own advertising system:** None declared
 
-30. Severability, No Waiver, Assignment
+**Own analytics platform:** None declared; RevenueCat provides subscription and purchase analytics
 
-If any provision of these Terms is held invalid, unlawful, or unenforceable, the remaining provisions will remain in full force and effect to the maximum extent permitted by law.
+## 2. Current Data-Flow Matrix
 
-Our failure to enforce any provision is not a waiver.
+| **Data flow** | **Data involved** | **Destination / access** | **Purpose** | **Control / deletion** |
+| --- | --- | --- | --- | --- |
+| Local App use | User-selected content, settings, local metadata, files depending on App | Device and operating-system storage; HAFYCH does not receive ordinary content | Provide the selected App function | User deletes through App/device; uninstall may not delete exports or backups |
+| Google Drive | Selected file contents, names, identifiers, metadata, authorization and sync information | Directly to Google Drive through device/provider integration; no HAFYCH content server | Open, save, import, export, sync, or back up as selected by user | User revokes access and deletes files through Google account/provider |
+| User-selected folder / operating-system file provider | Selected file contents, names, identifiers, metadata and sync information where the operating system exposes the folder | Directly through the device and selected provider; an Apple-selected folder may be backed by iCloud Drive; no HAFYCH content server | Open, save, import, export, or sync as selected by the user | User manages the folder and provider through operating-system/provider controls |
+| RevenueCat | App User ID; purchase history; product, transaction, subscription, trial, entitlement, refund and status information; app/platform/locale metadata | RevenueCat systems; HAFYCH may view dashboard data | Purchase validation, entitlements, fraud prevention, subscription analytics, support | Request through HAFYCH where record can be identified; provider and store retention may continue |
+| Google Play | Google account and payment data held by Google; product, order, receipt/purchase token, subscription and refund status available to App/providers | Google systems; limited transaction/status data to HAFYCH or RevenueCat | Distribution, payment, tax, subscription, refund, security, entitlement | Managed through Google account and Google Play; mandatory records may remain |
+| Support email | Email address, message, attachments, screenshots, App/device/purchase details voluntarily supplied | Google email infrastructure and Nazarii Hafych | Support, privacy, legal, security, billing, and dispute handling | Ordinarily retained up to three years; legal records longer as stated in Policy |
+| Website | IP address, browser/device and request data, timestamps, security logs, cookies or similar provider data | GitHub Pages, GitHub, network providers; HAFYCH does not run a separate web backend | Host and secure the Website | Provider-controlled under GitHub policies |
+| AI prompt / system clipboard | Selected manuscript text and generated prompt | Device system clipboard; no automatic AI-provider transmission | Let the user copy a prompt for optional use in an external service | User replaces or clears clipboard content and controls any later paste or transmission |
 
-We may assign or transfer these Terms, in whole or in part, including in connection with a merger, acquisition, restructuring, financing, asset sale, transfer of business, assignment, or reorganization.
+## 3. RevenueCat Configuration Statement
 
-You may not assign or transfer these Terms without our prior written consent.
+The inspected Writer Studio release code configures RevenueCat without a custom App User ID, so RevenueCat assigns an anonymous App User ID. The code does not call logIn, setEmail, setPhoneNumber, setDisplayName, setAttributes, or collect advertising identifiers. The current project has no third-party analytics or attribution integration and no application webhook; Google Play RTDN is connected directly to RevenueCat. The configured entitlement is pro and the current offering contains monthly and annual packages.
 
-⸻
+For the current configuration, the Google Play Data safety declaration must include purchase history collected for App functionality and analytics. Personal information and advertising/device identifiers are not introduced by the inspected RevenueCat integration. This conclusion must be rechecked whenever the SDK, release code, RevenueCat project, or provider integrations change.
 
-31. Entire Agreement and No Reliance
+## 4. Accounts and Deletion
 
-These Terms constitute the entire agreement between you and HAFYCH regarding the Apps, except for any supplemental terms that expressly apply to a specific App, feature, enterprise arrangement, order form, invoice, statement of work, paid plan, beta program, or separately signed written agreement.
+No HAFYCH account is created, so a HAFYCH account-deletion flow is not applicable. A user may:
 
-In the event of a conflict between these Terms and a separately signed written agreement between you and HAFYCH, the signed written agreement controls to the extent of the conflict.
+- delete local data through App or device controls;
 
-To the maximum extent permitted by law, you acknowledge that you have not relied on any statement, representation, warranty, promise, assurance, marketing material, documentation, app store description, screenshot, website text, AI output, or other communication except as expressly set out in these Terms or in a separately signed written agreement.
+- delete cloud data and revoke provider access through Google Drive or the selected operating-system file provider;
 
-⸻
+- manage or cancel subscriptions through Google Play; and
 
-32. Contact
+- request deletion of data controlled by HAFYCH or a RevenueCat customer record by emailing nazariihafych@gmail.com and supplying information reasonably necessary to identify the record.
 
-If you have questions about these Terms, this Privacy Policy, privacy requests, billing, licensing, support, or legal matters, contact us at:
+## 5. Device Permissions
 
-Nazarii Hafych / HAFYCH
-Address: Kharkiv Oblast, Kharkiv District, village of Borshchova, Bazivska Street 10, Ukraine
-Email: nazariihafych@gmail.com⁠￼
+The inspected Android manifest declares microphone access for the user-invoked dictation feature; network access is supplied through the platform and provider libraries used for Google Drive, Google Sign-In, RevenueCat, and Google Play. No advertising permission or broad Android all-files permission is declared. Each permission must remain limited to the feature the user requests, be explained by the operating system and store documentation, and be rechecked in the final merged release manifest before every publication.
+
+## 6. Security and Responsibility
+
+HAFYCH’s current risk-reduction measure is architectural: ordinary User Content is not stored on a HAFYCH backend. This does not eliminate risk on the device, in cloud storage, in the app store, or at RevenueCat. Users remain responsible for device security, provider accounts, permissions, backups, and recovery material. HAFYCH makes no certification or guarantee of regulatory suitability.
+
+<br>
