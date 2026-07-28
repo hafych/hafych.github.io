@@ -475,8 +475,6 @@ If an Apple-distributed App fails to conform to a warranty that cannot be discla
 
 **PART II**
 
-<a id="privacy-policy"></a>
-
 # PRIVACY POLICY
 
 *Last Updated: 28 July 2026  |  Effective Date: 28 July 2026*
