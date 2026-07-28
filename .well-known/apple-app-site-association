@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "TH59GWVF9V.com.writerstudio"
+        ],
+        "components": [
+          {
+            "/": "/writer-studio-invite/join",
+            "comment": "Writer Studio collaboration invitations"
+          },
+          {
+            "/": "/writer-studio-invite/join/*",
+            "comment": "Writer Studio collaboration invitations"
+          }
+        ]
+      }
+    ]
+  }
+}
