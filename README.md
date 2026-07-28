@@ -193,8 +193,6 @@ To the maximum extent permitted by law, all amounts payable by you shall be paid
 
 ⸻
 
-<a id="privacy-policy"></a>
-
 ## Privacy Policy
 
 8. Privacy Policy Overview
