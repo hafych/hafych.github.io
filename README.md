@@ -774,7 +774,7 @@ No HAFYCH account is created, so a HAFYCH account-deletion flow is not applicabl
 
 ## 5. Device Permissions
 
-The inspected Writer Studio Android manifest declares microphone access for its user-invoked dictation feature. AllPDF’s released Android manifest does not request microphone, advertising-ID, or broad all-files access. Network access is supplied through the platform and provider libraries used for user-invoked Google Drive, Dropbox, AI, RevenueCat, and Google Play functions. Each permission must remain limited to the feature the user requests, be explained by the operating system and store documentation, and be rechecked in the final merged release manifest before every publication.
+The inspected Writer Studio Android manifest declares microphone access for its user-invoked dictation feature. AllPDF declares camera access for user-invoked capture and scan features; it does not request microphone, advertising-ID, or broad all-files access. Network access is supplied through the platform and provider libraries used for user-invoked Google Drive, Dropbox, AI, RevenueCat, and Google Play functions. Each permission must remain limited to the feature the user requests, be explained by the operating system and store documentation, and be rechecked in the final merged release manifest before every publication.
 
 ## 6. Security and Responsibility
 
