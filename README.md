@@ -6,7 +6,7 @@ permalink: /
 
 # HAFYCH Legal Documents
 
-**Version 1.2 — Last Updated and Effective: 28 July 2026**
+**Version 1.3 — Last Updated and Effective: 29 July 2026**
 
 These public documents apply to AllPDF, Writer Studio, and other HAFYCH Apps
 as stated in the text. They distinguish Consumer rights from additional
@@ -25,7 +25,7 @@ Business User terms. Mandatory rights under applicable law are not excluded.
 
 # TERMS OF USE AND END USER LICENSE AGREEMENT
 
-*Last Updated: 28 July 2026  |  Effective Date: 28 July 2026*
+*Last Updated: 29 July 2026  |  Effective Date: 29 July 2026*
 
 > **IMPORTANT: THE APPS ARE FOR PERSONS AGED 18 OR OLDER. THESE TERMS APPLY TO BOTH CONSUMERS AND BUSINESS USERS. SPECIAL BUSINESS-ONLY PROVISIONS APPLY WHEN AN APP IS USED FOR TRADE, BUSINESS, CRAFT, PROFESSION, ORGANIZATIONAL, INSTITUTIONAL, OR OTHER NON-CONSUMER PURPOSES. MANDATORY CONSUMER RIGHTS ARE NOT EXCLUDED.**
 
@@ -193,7 +193,7 @@ AllPDF and Writer Studio premium features are currently offered through Google P
 
 ### 8.2 Auto-Renewal and Cancellation
 
-An auto-renewing subscription renews for successive monthly or annual billing periods until canceled through Google Play before renewal. An eligible one-month free trial converts automatically to the selected paid plan at the localized price shown before purchase unless canceled before the trial ends. The App provides access to Google Play subscription management; deleting the App does not cancel a subscription. Renewal timing, price notices, grace periods, billing retries, cancellation, restoration, and refund procedures may be controlled by Google Play. When a current subscriber changes plans, the timing and charge follow the replacement terms shown by Google Play: the current implementation requests an immediate full-price monthly-to-annual change and a deferred annual-to-monthly change at the next renewal.
+An auto-renewing subscription renews for successive monthly or annual billing periods until canceled through Google Play before renewal. An eligible one-month free trial converts automatically to the selected paid plan at the localized price shown before purchase unless canceled before the trial ends. The App provides access to Google Play subscription management; deleting the App does not cancel a subscription. Renewal timing, price notices, grace periods, billing retries, cancellation, restoration, and refund procedures may be controlled by Google Play. When a current subscriber changes plans, the timing and charge follow the replacement terms shown by Google Play before confirmation. AllPDF’s current monthly and annual base plans are configured to charge the new plan at the end of the current billing cycle. Another App or a future configuration may use different timing; the Google Play confirmation controls.
 
 ### 8.3 Refunds and Consumer Rights
 
@@ -479,7 +479,7 @@ If an Apple-distributed App fails to conform to a warranty that cannot be discla
 
 # PRIVACY POLICY
 
-*Last Updated: 28 July 2026  |  Effective Date: 28 July 2026*
+*Last Updated: 29 July 2026  |  Effective Date: 29 July 2026*
 
 > **SUMMARY: HAFYCH DOES NOT CURRENTLY OPERATE A USER-ACCOUNT SYSTEM OR A BACKEND FOR STORING ORDINARY USER CONTENT. CONTENT MAY REMAIN ON THE DEVICE OR BE SENT DIRECTLY TO A USER-SELECTED CLOUD PROVIDER. REVENUECAT AND APP STORES PROCESS PURCHASE AND ENTITLEMENT DATA. HAFYCH MAY PROCESS SUPPORT EMAILS AND LIMITED PURCHASE INFORMATION AVAILABLE THROUGH PROVIDER DASHBOARDS.**
 
@@ -713,7 +713,7 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 
 # CURRENT TECHNICAL AND PRIVACY SCHEDULE
 
-*Applies to the shared architecture reported for current HAFYCH Apps as of 28 July 2026*
+*Applies to the shared architecture reported for current HAFYCH Apps as of 29 July 2026*
 
 > **This Schedule is a factual supplement to the Privacy Policy. It does not claim that every HAFYCH App uses every optional feature. A released App’s store declaration and permission prompts must be narrower and exact for that package and version.**
 
@@ -723,7 +723,7 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 
 **Current confirmed store distribution:** Google Play
 
-**Apple App Store distribution:** Not currently used as of 28 July 2026
+**Apple App Store distribution:** Not currently used as of 29 July 2026
 
 **Website:** https://hafych.github.io/
 

@@ -35,10 +35,10 @@ Google Account access at any time from their Google Account settings.
 
 ## Support and legal information
 
-- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.2,
-  effective 28 July 2026
-- [Terms of Use](https://hafych.github.io/#terms-of-use) — Version 1.2,
-  effective 28 July 2026
+- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.3,
+  effective 29 July 2026
+- [Terms of Use](https://hafych.github.io/#terms-of-use) — Version 1.3,
+  effective 29 July 2026
 - [Business-to-Business Data Processing Addendum](https://hafych.github.io/dpa/)
 - Support: [nazariihafych@gmail.com](mailto:nazariihafych@gmail.com)
 

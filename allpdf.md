@@ -10,9 +10,12 @@ permalink: /allpdf/
 [Terms of Use](/#terms-of-use) ·
 [Privacy Policy](/#privacy-policy)
 
-AllPDF is a local-first PDF workspace for Android, desktop, and the web. It
-provides PDF viewing, editing, conversion, OCR, organization, protection, and
-other document tools. Core native processing runs on the user’s device.
+AllPDF is a local-first PDF workspace with Android, desktop, and web runners.
+Availability differs by release channel: the current Google Play build is
+distributed through closed testing, and a runner or local build is not a claim
+that another host is publicly released. AllPDF provides PDF viewing, editing,
+conversion, OCR, organization, protection, and other document tools. Core
+native processing runs on the user’s device.
 
 ## Free and Pro
 
@@ -22,9 +25,12 @@ premium capabilities, including eligible AI, cloud-connection, automation, and
 expanded OCR features. Google Play shows the localized price, billing period,
 renewal terms, and any trial eligibility before purchase.
 
-The intended Google Play plans are monthly and annual. Eligible new
-subscribers may receive a one-month trial. The subscription renews
-automatically unless it is canceled through Google Play before renewal.
+Google Play defines active monthly and annual base plans for AllPDF. They are
+currently exercised through the closed-testing and license-testing flow;
+general production access is not active. A one-month free trial is available
+only to users who have never held an AllPDF subscription and who otherwise
+remain eligible in Google Play. The subscription renews automatically unless
+it is canceled through Google Play before renewal.
 
 ## Local processing
 
@@ -84,4 +90,4 @@ AllPDF is provided by Nazarii Hafych under the HAFYCH brand.
 - Telephone: +48 571 088 639
 - Website: [https://hafych.github.io/](https://hafych.github.io/)
 - Full [Terms of Use](/#terms-of-use) and
-  [Privacy Policy](/#privacy-policy), Version 1.2, effective 28 July 2026
+  [Privacy Policy](/#privacy-policy), Version 1.3, effective 29 July 2026
