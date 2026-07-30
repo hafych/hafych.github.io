@@ -10,20 +10,18 @@ permalink: /allpdf/
 [Terms of Use](/#terms-of-use) ·
 [Privacy Policy](/#privacy-policy)
 
-AllPDF is a local-first PDF workspace with Android, desktop, and web runners.
-Availability differs by release channel: the current Google Play build is
-distributed through closed testing, and a runner or local build is not a claim
-that another host is publicly released. AllPDF provides PDF viewing, editing,
-conversion, OCR, organization, protection, and other document tools. Core
-native processing runs on the user’s device.
+AllPDF is a PDF workspace for viewing, editing, conversion, OCR, organization,
+protection, and other document tasks. Availability differs by release channel:
+the current Google Play build is distributed through closed testing. Desktop
+and web project files do not mean that those versions are publicly released.
 
 ## Free and Pro
 
 The app can be downloaded and used without advertising. Free tools remain
 available without a subscription. Optional AllPDF Pro subscriptions unlock
-premium capabilities, including eligible AI, cloud-connection, automation, and
-expanded OCR features. Google Play shows the localized price, billing period,
-renewal terms, and any trial eligibility before purchase.
+premium capabilities, including available Google Drive and Dropbox connections
+and advanced PDF automation. Google Play shows the localized price, billing
+period, renewal terms, and any trial eligibility before purchase.
 
 Google Play defines active monthly and annual base plans for AllPDF. They are
 currently exercised through the closed-testing and license-testing flow;
@@ -32,33 +30,20 @@ only to users who have never held an AllPDF subscription and who otherwise
 remain eligible in Google Play. The subscription renews automatically unless
 it is canceled through Google Play before renewal.
 
-## Local processing
-
-Selecting or opening a PDF does not by itself upload it to HAFYCH. In the
-standard native configuration, core PDF operations run on the device. AllPDF
-does not operate a HAFYCH account system or a HAFYCH server that stores users’
-ordinary documents.
-
 ## Google Drive and Dropbox
 
-Google Drive and Dropbox are optional. Connecting an account authorizes the
-provider connection but does not authorize automatic uploads. AllPDF reads and
-uploads a completed result only after the user selects a provider and confirms
-the transfer. Cloud files, authorization data, and provider records are
-controlled by the selected provider under its terms.
+Google Drive and Dropbox are optional, user-initiated integrations. Connecting
+an account does not start automatic synchronization. A transfer starts only
+after the user selects a provider and confirms it. Cloud files, authorization
+data, and provider records are controlled by the selected provider under its
+terms.
 
 ## AI providers
 
-AllPDF can use OpenAI, Anthropic, or a user-configured OpenAI-compatible
-endpoint. Choosing a PDF remains local. Before the first AI request for each
-selected document, AllPDF identifies the provider and host and asks the user
-to confirm the exact amount of extracted text that will be sent.
-
-Only the bounded extracted text needed for the requested AI action is sent
-through this flow; the PDF file itself is not sent. The selected AI provider
-controls its own processing, retention, security, and model-improvement rules.
-API credentials are stored using secure device storage where supported and are
-not sent to HAFYCH.
+Remote AI Processing is disabled in the current Android release. OpenAI,
+Anthropic, and user-configured AI endpoints are not offered in this release.
+Any future activation requires updated product information, privacy review,
+and user controls before data is sent to an AI provider.
 
 ## Purchases and RevenueCat
 
@@ -71,9 +56,9 @@ attributes.
 
 ## Deletion and support
 
-There is no HAFYCH account to delete. Users delete local documents through the
-app or device, manage cloud files and revoke access through Google Drive or
-Dropbox, and manage subscriptions through Google Play.
+There is no HAFYCH user account in the current AllPDF release. Users manage app
+files through the app or device, manage cloud files and revoke access through
+Google Drive or Dropbox, and manage subscriptions through Google Play.
 
 To request deletion of data controlled by HAFYCH or an identifiable
 RevenueCat customer record, email

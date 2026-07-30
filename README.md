@@ -157,19 +157,19 @@ You must not use an App, directly or indirectly:
 
 Prohibited conduct includes attempting, directing, assisting, instructing, financing, concealing, or facilitating the conduct through another person, device, organization, identifier, integration, or service.
 
-## 6. User Content, Local Storage, Cloud Storage, and Sensitive Data
+## 6. User Content, Storage, Cloud Services, and Sensitive Data
 
 ### 6.1 Ownership and Limited Processing Permission
 
 You retain any rights you lawfully hold in User Content. You grant HAFYCH only the limited, worldwide, royalty-free permission necessary to operate a requested feature, respond to support you initiate, verify an entitlement, protect the App, comply with law, or otherwise perform these Terms. This permission ends when no longer necessary, subject to lawful retention and records requirements.
 
-### 6.2 Local-First Architecture and No HAFYCH Content Backend
+### 6.2 User Content and HAFYCH Service Boundary
 
-Based on the current architecture described by the Provider, HAFYCH does not operate its own backend server for storing ordinary User Content and does not maintain a HAFYCH user-account database. Content may remain on your device or be sent directly to a user-selected Third-Party Service. HAFYCH generally cannot view, retrieve, restore, decrypt, or delete content that it never receives or controls.
+HAFYCH does not currently offer a HAFYCH account or content-storage service for ordinary User Content. Depending on the requested feature and platform, User Content may be handled by the App, the operating system, a user-selected Third-Party Service, or HAFYCH support when the user sends it for support. HAFYCH can access, retrieve, restore, or delete only content that it actually receives or controls.
 
 ### 6.3 Google Drive, Dropbox, and Other User-Selected Storage
 
-Where an App offers Google Drive or Dropbox, or lets you select a folder or file provider exposed by the operating system, files and related metadata may be handled directly between the App, device, operating system, and selected provider. Connecting a provider does not authorize an automatic upload: AllPDF uploads a result only after the user selects a cloud destination and confirms that transfer. On Apple platforms a user-selected folder can include iCloud Drive when the operating system exposes it; HAFYCH does not operate a separate CloudKit or iCloud content service. Provider permissions, authentication tokens, file references, synchronization data, and file contents are governed by the relevant feature and provider. HAFYCH does not receive those files on a HAFYCH content server unless you separately send them for support.
+Where an App offers Google Drive or Dropbox, or lets you select a folder or file provider exposed by the operating system, files and related metadata may be handled by the App, device, operating system, and selected provider. Connecting a provider does not start automatic synchronization: AllPDF starts a transfer only after the user selects a cloud destination and confirms it. On Apple platforms a user-selected folder can include iCloud Drive when the operating system exposes it; HAFYCH does not operate a separate CloudKit or iCloud content service. Provider permissions, authentication tokens, file references, synchronization data, and file contents are governed by the relevant feature and provider. HAFYCH may receive a file if you separately send it for support.
 
 ### 6.4 Backups and Deletion
 
@@ -481,7 +481,7 @@ If an Apple-distributed App fails to conform to a warranty that cannot be discla
 
 *Last Updated: 29 July 2026  |  Effective Date: 29 July 2026*
 
-> **SUMMARY: HAFYCH DOES NOT CURRENTLY OPERATE A USER-ACCOUNT SYSTEM OR A BACKEND FOR STORING ORDINARY USER CONTENT. CONTENT MAY REMAIN ON THE DEVICE OR BE SENT DIRECTLY TO A USER-SELECTED CLOUD PROVIDER. REVENUECAT AND APP STORES PROCESS PURCHASE AND ENTITLEMENT DATA. HAFYCH MAY PROCESS SUPPORT EMAILS AND LIMITED PURCHASE INFORMATION AVAILABLE THROUGH PROVIDER DASHBOARDS.**
+> **SUMMARY: HAFYCH DOES NOT CURRENTLY OFFER A HAFYCH USER ACCOUNT OR CONTENT-STORAGE SERVICE FOR ORDINARY USER CONTENT. USER-SELECTED PROVIDERS PROCESS CONFIRMED CLOUD TRANSFERS. REVENUECAT AND APP STORES PROCESS PURCHASE AND ENTITLEMENT DATA. HAFYCH MAY PROCESS SUPPORT EMAILS AND LIMITED PURCHASE INFORMATION AVAILABLE THROUGH PROVIDER DASHBOARDS.**
 
 ## 1. Controller and Contact
 
