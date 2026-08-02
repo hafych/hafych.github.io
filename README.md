@@ -6,7 +6,7 @@ permalink: /
 
 # HAFYCH Legal Documents
 
-**Version 1.3 — Last Updated and Effective: 29 July 2026**
+**Version 1.4 — Last Updated and Effective: 29 July 2026**
 
 These public documents apply to AllPDF, Writer Studio, and other HAFYCH Apps
 as stated in the text. They distinguish Consumer rights from additional
@@ -30,6 +30,8 @@ Business User terms. Mandatory rights under applicable law are not excluded.
 > **IMPORTANT: THE APPS ARE FOR PERSONS AGED 18 OR OLDER. THESE TERMS APPLY TO BOTH CONSUMERS AND BUSINESS USERS. SPECIAL BUSINESS-ONLY PROVISIONS APPLY WHEN AN APP IS USED FOR TRADE, BUSINESS, CRAFT, PROFESSION, ORGANIZATIONAL, INSTITUTIONAL, OR OTHER NON-CONSUMER PURPOSES. MANDATORY CONSUMER RIGHTS ARE NOT EXCLUDED.**
 
 By checking an acceptance box, tapping an acceptance or continuation control after a clear link to these Terms is presented, downloading or installing an App, starting a purchase or subscription, restoring a purchase, or otherwise accessing or using an App, you agree to these Terms. If you do not agree, do not access, purchase, install, or use the Apps.
+
+For a Business User, general acceptance of these Terms does not replace the separate express acceptance of Section 18.7 required by Sections 3.2 and 4.4. No Business User license, subscription entitlement, deployment right, or other permission to use an App arises unless that separate acceptance is completed.
 
 The Privacy Policy in Part II explains data processing and forms part of this package. A privacy notice is not, by itself, consent. Where consent is legally required, it must be requested separately through an appropriate affirmative mechanism.
 
@@ -77,11 +79,17 @@ You must be at least 18 years old and have legal capacity to enter into these Te
 
 ### 3.2 Acting for an Organization
 
-If you use an App for or on behalf of an organization, you represent that you have authority to accept these Terms for that organization. The organization is bound once an authorized person accepts the Terms, obtains an entitlement, deploys the App, permits use, or receives the benefit of use. If you falsely claim authority, you remain personally responsible for your own conduct and any resulting loss to the maximum extent permitted by law.
+If you use an App for or on behalf of an organization, you represent that you have authority to accept these Terms for that organization. The organization is bound by the generally applicable provisions of these Terms once an authorized person accepts them, obtains an entitlement, deploys the App, permits use, or receives the benefit of use. If you falsely claim authority, you remain personally responsible for your own conduct and any resulting loss to the maximum extent permitted by law.
+
+An organization’s duly authorized representative must separately and expressly accept Section 18.7 before any Business User license, subscription entitlement, deployment right, or other permission to use an App arises. General acceptance of these Terms, a purchase, download, installation, deployment, or use, standing alone, does not replace the separate acceptance required for Section 18.7. If the separate acceptance has not been completed, any purported Business User access or use is unauthorized.
 
 ### 3.3 Electronic Contracting and Evidence
 
-You consent to electronic contracting, electronic notices, and electronic records. To the extent available and lawful, app-store records, purchase receipts, entitlement records, App version information, timestamps, support correspondence, device or App-instance identifiers, and records of an acceptance control may be used to establish assent, purchase, entitlement, and compliance. HAFYCH does not promise that every acceptance event will be stored on a HAFYCH server because HAFYCH does not operate its own user-account backend.
+You consent to electronic contracting, electronic notices, and electronic records. To the extent available and lawful, app-store records, purchase receipts, entitlement records, App version information, timestamps, support correspondence, device or App-instance identifiers, and records of an acceptance control may be used to establish assent, purchase, entitlement, and compliance.
+
+Separate acceptance of Section 18.7 may be evidenced by a signed electronic or paper document, a separately presented electronic checkbox or acceptance control, an order form, a platform workflow, correspondence from an authorized corporate email address, or another reliable electronic record. The acceptance record may identify the Business User, its authorized representative, the representative’s authority or position, the App or entitlement, the Terms version, the Section 18.7 version, and the date and time of acceptance.
+
+HAFYCH does not promise that every general acceptance event will be stored on a HAFYCH server because HAFYCH does not operate its own user-account backend. That architectural limitation does not waive the separate acceptance requirement for Section 18.7 or prevent the parties from proving acceptance through another reliable record.
 
 ### 3.4 Consumer and Business Classification
 
@@ -124,6 +132,12 @@ An App may contain components governed by separate open-source or third-party li
 ### 4.3 Reservation of Rights
 
 All rights not expressly granted are reserved. No right arises by implication, estoppel, course of dealing, trade usage, or exhaustion beyond what mandatory law requires.
+
+### 4.4 Mandatory Business User Acceptance Condition
+
+For a Business User, express and separate acceptance of Section 18.7 by a duly authorized representative is a condition precedent to the creation and continuation of every license, subscription, entitlement, deployment right, or other permission to use an App.
+
+To the maximum extent permitted by law, no Business User license or entitlement arises unless that acceptance has been completed and recorded. Any purported Business User access or use without the required acceptance is unauthorized and does not create an implied license, waiver, estoppel, or course of dealing. Once the Business User separately accepts Section 18.7, that acceptance applies to the relevant current and renewed Business User entitlement unless a material amendment requires a new separate acceptance under Section 20.
 
 ## 5. Prohibited Uses
 
@@ -223,7 +237,7 @@ Support may be provided through the contact email at HAFYCH’s discretion. Cont
 
 To the maximum extent permitted by law, HAFYCH may suspend, restrict, revoke, or terminate access to an App or paid feature where you materially breach these Terms, evade payment or entitlement controls, create a security or legal risk, violate sanctions or platform rules, misuse a feature, or where a dependency, platform, legal permission, or product is discontinued. Where reasonably practicable and legally appropriate, HAFYCH may provide notice or an opportunity to cure. Immediate action may be taken for serious abuse, fraud, security threats, unlawful conduct, or urgent platform or legal requirements.
 
-Termination ends the license for the affected App or feature. Provisions that by nature should survive remain effective, including payment obligations, intellectual property, user responsibility, privacy, disclaimers, liability limits, Business User indemnity, dispute resolution, and records provisions.
+Termination ends the license for the affected App or feature. Provisions that by nature should survive remain effective, including payment obligations, intellectual property, user responsibility, privacy, disclaimers, liability limits, Business User indemnity, the Business User Legal-Cost Reimbursement obligation in Section 18.7, dispute resolution, and records provisions.
 
 ## 10. Security, Credentials, and User Responsibility
 
@@ -297,7 +311,11 @@ Related acts, omissions, events, claims, users, purchases, and legal theories co
 
 ### 13.4 Allocation of Risk
 
-The disclaimers and limits are an essential allocation of risk reflected in the availability and price of the Apps. They apply to the fullest extent permitted even where another remedy is unavailable. Your payment, misuse, infringement, confidentiality, data-protection, indemnity, and sanctions obligations are not limited by HAFYCH’s liability cap.
+The disclaimers and limits are an essential allocation of risk reflected in the availability and price of the Apps. They apply to the fullest extent permitted even where another remedy is unavailable. Your payment, misuse, infringement, confidentiality, data-protection, indemnity, sanctions, and Section 18.7 Legal-Cost Reimbursement obligations are not limited by HAFYCH’s liability cap.
+
+### 13.5 Mandatory-Law Carve-Out
+
+Nothing in Sections 13, 15, or 18.7 excludes or limits liability, or requires indemnification, reimbursement, advancement, or payment, to the extent that the relevant exclusion, limitation, indemnification, reimbursement, advancement, or payment is prohibited by mandatory law. This includes any circumstance in which mandatory law does not permit contractual protection for HAFYCH’s fraud, intentional breach, intentional misconduct, or bad-faith abuse of a proceeding. Any prohibited application shall be limited only to the minimum extent required, and the remaining provisions shall continue in effect.
 
 ## 14. Business User Addendum
 
@@ -357,7 +375,7 @@ A Business User must defend, indemnify, and hold harmless Nazarii Hafych, HAFYCH
 
 - a high-risk or regulated use not expressly approved in a signed agreement.
 
-HAFYCH may control the defense with counsel reasonably selected by HAFYCH. The Business User must cooperate, preserve evidence, and not settle in a manner that admits fault by or imposes obligations on HAFYCH without prior written consent. HAFYCH will provide reasonably prompt notice where failure to do so would materially prejudice the defense. This Section does not require indemnity for loss finally determined to have resulted solely from HAFYCH’s intentional misconduct.
+HAFYCH may control the defense with counsel reasonably selected by HAFYCH. The Business User must cooperate, preserve evidence, and not settle in a manner that admits fault by or imposes obligations on HAFYCH without prior written consent. HAFYCH will provide reasonably prompt notice where failure to do so would materially prejudice the defense. This Section does not require indemnity for loss finally determined to have resulted solely from HAFYCH’s fraud, intentional breach, intentional misconduct, or bad-faith abuse of a proceeding.
 
 ## 16. Sanctions, Export Controls, and Geographic Restrictions
 
@@ -385,9 +403,9 @@ Before commencing a direct contractual claim against HAFYCH, the claimant should
 
 A Consumer may use any court, alternative dispute-resolution body, regulator, or complaint mechanism available under mandatory law. Nothing in these Terms requires a Consumer to arbitrate a dispute or prevents a Consumer from bringing proceedings in a court that mandatory consumer-jurisdiction rules make available. HAFYCH may bring proceedings against a Consumer only in a forum permitted by mandatory law.
 
-### 18.3 Business Disputes with a Foreign Element
+### 18.3 Business Disputes Eligible for International Commercial Arbitration
 
-Any dispute, controversy, or claim between HAFYCH and a Business User arising out of or relating to these Terms, an App, a purchase, a subscription, a license, its conclusion, interpretation, performance, breach, termination, or invalidity, and having a foreign element or otherwise falling within the jurisdiction of international commercial arbitration, shall be finally resolved by the International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry (ICAC at the UCCI) under its Rules in force when the claim is filed.
+Any dispute, controversy, or claim between HAFYCH and a Business User arising out of or relating to these Terms, an App, a purchase, a subscription, a license, its conclusion, interpretation, performance, breach, termination, or invalidity, and which may lawfully be referred to international commercial arbitration under the Law of Ukraine “On International Commercial Arbitration,” as amended from time to time, shall be finally resolved by the International Commercial Arbitration Court at the Ukrainian Chamber of Commerce and Industry (ICAC at the UCCI) under its Rules in force when the claim is filed.
 
 The seat of arbitration is Kyiv, Ukraine. The tribunal consists of one arbitrator unless the ICAC Rules require otherwise. The language is Ukrainian unless HAFYCH agrees in writing to English or the tribunal determines another language is necessary under the Rules. The substantive law is the law of Ukraine, subject to Section 19. The arbitration agreement is separable from the remaining Terms, and the tribunal may rule on its own jurisdiction.
 
@@ -405,9 +423,97 @@ To the maximum extent permitted by law, direct claims by a user must be brought 
 
 This Section does not restrict a regulator, public authority, or qualified entity from exercising powers that applicable law does not allow a contract to waive, including a legally authorized representative action for collective consumer interests.
 
-### 18.7 Costs
+### 18.7 Costs and Mandatory Business User Legal-Cost Reimbursement
 
-Costs, fees, and advances are allocated under mandatory law and the applicable court or arbitration rules. In a Business dispute, the prevailing party may request recovery of reasonable documented legal, expert, translation, travel, technical, and administrative costs to the maximum extent permitted. A party that files in the wrong forum, disregards a valid arbitration clause, or pursues a manifestly abusive claim may be ordered to reimburse resulting costs where the decision-maker has authority to do so.
+For a Consumer, costs, fees, expenses, and advances shall be allocated only in accordance with mandatory applicable law and the applicable court, regulatory, platform, or alternative-dispute-resolution rules.
+
+> **IMPORTANT BUSINESS USER NOTICE: THIS SECTION IS A MATERIAL AND ESSENTIAL CONDITION OF EVERY BUSINESS USER LICENSE. A BUSINESS USER MAY NOT ACCESS, INSTALL, PURCHASE, SUBSCRIBE TO, DEPLOY, DISTRIBUTE WITHIN AN ORGANIZATION, OR USE AN APP UNLESS A DULY AUTHORIZED REPRESENTATIVE HAS EXPRESSLY AND SEPARATELY ACCEPTED THIS SECTION.**
+
+To the maximum extent permitted by mandatory law, each Business User shall bear and reimburse Nazarii Hafych, trading as HAFYCH, for all reasonable, actually incurred, and documented Legal Costs arising out of or relating to any dispute, controversy, claim, counterclaim, demand, investigation, complaint, court proceeding, arbitration, challenge, appeal, recognition, enforcement, settlement, or other legal or administrative proceeding concerning:
+
+- an App, including AllPDF, Writer Studio, or any other HAFYCH App;
+
+- a purchase, subscription, entitlement, license, deployment, or use of an App;
+
+- these Terms or any separately signed agreement;
+
+- the Business User’s User Content, instructions, personnel, integrations, conduct, or business activities; or
+
+- the relationship between HAFYCH and the Business User,
+
+(each a “Business Dispute”).
+
+The Business User’s reimbursement obligation applies regardless of:
+
+- which party commenced the Business Dispute;
+
+- whether HAFYCH acts as claimant, respondent, counterclaimant, defendant, interested party, or otherwise;
+
+- the forum, jurisdiction, procedural posture, or remedy requested;
+
+- whether HAFYCH is treated as the prevailing or successful party;
+
+- whether HAFYCH prevails on none, some, or all of its claims, counterclaims, defenses, objections, or applications;
+
+- whether an arbitral award, judgment, decision, order, or settlement grants relief wholly or partly against HAFYCH; or
+
+- whether the Business Dispute is dismissed, discontinued, withdrawn, settled, terminated, or otherwise resolved without a determination that HAFYCH prevailed.
+
+> **FOR THE AVOIDANCE OF DOUBT, THE BUSINESS USER MUST REIMBURSE THE COVERED LEGAL COSTS EVEN WHERE HAFYCH DOES NOT PREVAIL IN THE ARBITRATION OR OTHER PROCEEDING, INCLUDING WHERE AN ARBITRAL AWARD, JUDGMENT, DECISION, OR ORDER IS ENTERED WHOLLY OR PARTLY AGAINST HAFYCH.**
+
+“Legal Costs” includes, without limitation:
+
+- arbitration registration fees, arbitration fees, deposits, advances, tribunal fees, and institutional charges;
+
+- court, filing, service, recognition, enforcement, appellate, and execution fees;
+
+- lawyers’, advocates’, solicitors’, barristers’, consultants’, and other professional advisers’ fees;
+
+- expert, forensic, technical, accounting, investigation, evidence-preservation, document-production, translation, interpretation, and transcription costs;
+
+- witness, travel, accommodation, courier, communication, administrative, and collection costs;
+
+- costs relating to interim, conservatory, injunctive, protective, evidentiary, or asset-preservation measures;
+
+- costs of settlement negotiations, mediation, challenge, appeal, recognition, enforcement, and recovery; and
+
+- applicable taxes, duties, and charges imposed on those amounts.
+
+Upon a reasonable written request supported by a written estimate, engagement letter, fee request, institutional request, invoice, or other reasonable information, the Business User shall advance reasonable amounts for imminent Legal Costs. The Business User shall pay the requested advance within ten (10) calendar days after receipt, or within a shorter period where reasonably necessary to meet a court, tribunal, institution, lawyer, expert, or enforcement deadline and the Business User is given as much notice as reasonably practicable. Each advance shall be reconciled against the amount actually incurred, and any unused balance shall be credited or returned.
+
+Amounts not advanced shall be reimbursed within ten (10) calendar days after a written demand accompanied by invoices, receipts, engagement records, payment records, cost schedules, or other reasonable evidence of the relevant Legal Costs.
+
+The parties expressly intend this Section to create an independent substantive contractual payment obligation and an agreed allocation of financial risk. It is not limited to, and does not depend upon, a procedural application for costs, a prevailing-party rule, or the default allocation of costs under any arbitration, court, or institutional rules.
+
+HAFYCH may assert this obligation as a claim, counterclaim, contractual debt, set-off, defense, or request for relief in the relevant proceeding or in a separate proceeding permitted by Sections 18.3 through 18.5 and mandatory law. The Business User shall not contend that HAFYCH’s failure to prevail, by itself, extinguishes or reduces this contractual obligation.
+
+This obligation:
+
+- is an essential condition of the price, availability, and grant of every Business User license;
+
+- survives expiration, suspension, revocation, and termination of the license or these Terms;
+
+- is not subject to the liability cap in Section 13.3; and
+
+- applies in addition to the Business User’s obligations under Section 15.
+
+HAFYCH shall not obtain double recovery. Any amount actually recovered by HAFYCH for the same Legal Cost under a cost award, judgment, settlement, insurance payment, indemnity, or payment by another person shall be credited against the amount payable by the Business User.
+
+This Section does not require the Business User to pay a particular Legal Cost to the extent that a final and binding decision expressly determines that the particular cost:
+
+- was not actually incurred, except for a properly requested and reconciled advance;
+
+- was not reasonably related to the Business Dispute;
+
+- was unreasonable or manifestly disproportionate;
+
+- is prohibited from being shifted by mandatory law;
+
+- constitutes a personal, punitive, or non-waivable sanction imposed directly on HAFYCH; or
+
+- was caused solely by HAFYCH’s fraud, intentional breach, intentional misconduct, or bad-faith abuse of the proceeding.
+
+Except for the limitations expressly stated above, the parties request every competent court and arbitral tribunal to give full effect to this agreed allocation of Legal Costs to the maximum extent permitted by law. If any part of this Section is invalid or unenforceable, it shall be limited or reformed only to the minimum extent necessary, and the remainder shall continue in effect.
 
 ## 19. Governing Law and Mandatory Rights
 
@@ -421,11 +527,13 @@ HAFYCH may update these Terms for legal, security, platform, provider, feature, 
 
 Continued use after the effective date constitutes acceptance to the extent permitted by law. If you do not accept a change, you must stop using the affected App and cancel any future renewal through the platform. Terms applicable at the time of a completed purchase continue to govern acquired rights to the extent mandatory law requires.
 
+A material amendment to Section 18.7, including an expansion of the categories of covered Legal Costs or Business Disputes, does not bind a Business User unless a duly authorized representative separately and expressly accepts the amended Section 18.7. Until that new acceptance occurs, the last separately accepted version continues to govern to the extent permitted by law.
+
 ## 21. Miscellaneous
 
 ### 21.1 Entire Agreement and Order of Precedence
 
-These Terms, the Privacy Policy, the Current Technical and Privacy Schedule, applicable App-specific terms, and any separately signed agreement form the entire agreement concerning the Apps. A separately signed agreement controls to the extent of an express conflict. Platform terms control only for the platform-controlled matter. Marketing, screenshots, store descriptions, support communications, and documentation do not create a warranty or obligation beyond mandatory law unless expressly incorporated into a signed agreement.
+These Terms, the Privacy Policy, the Current Technical and Privacy Schedule, the Business-to-Business Data Processing Addendum where applicable, applicable App-specific terms, and any separately signed agreement form the entire agreement concerning the Apps. A separately signed agreement controls to the extent of an express conflict. Platform terms control only for the platform-controlled matter. Marketing, screenshots, store descriptions, support communications, and documentation do not create a warranty or obligation beyond mandatory law unless expressly incorporated into a signed agreement.
 
 ### 21.2 Assignment
 
@@ -509,7 +617,7 @@ HAFYCH acts as controller for data it decides to process for support, legal noti
 
 ### 2.2 Organizations and Business Users
 
-An organization using an App for its own purposes normally determines why and how its personnel or other persons’ content is handled and is responsible for its own notices, legal bases, permissions, employment rules, security, and data-subject requests. HAFYCH acts as processor only to the extent it processes personal data on documented instructions for a Business User and Part IV applies.
+An organization using an App for its own purposes normally determines why and how its personnel or other persons’ content is handled and is responsible for its own notices, legal bases, permissions, employment rules, security, and data-subject requests. HAFYCH acts as processor only to the extent it processes personal data on documented instructions for a Business User and the separately published Business-to-Business Data Processing Addendum applies.
 
 ### 2.3 Independent Third Parties
 
