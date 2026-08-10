@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.writerstudio",
       "sha256_cert_fingerprints": [
-        "37:88:14:3B:A3:60:4C:F0:20:51:9E:2D:3C:42:B6:A8:99:6E:D8:17:A1:C9:AF:20:B4:32:15:74:55:1E:57:76"
+        "37:88:14:3B:A3:60:4C:F0:20:51:9E:2D:3C:42:B6:A8:99:6E:D8:17:A1:C9:AF:20:B4:32:15:74:55:1E:57:76",
+        "FE:7C:B8:EB:CA:67:EC:7A:6A:B6:1A:59:4E:21:77:48:CB:03:60:85:8E:58:14:E4:37:6B:76:E7:BE:52:56:AC"
       ]
     }
   }
