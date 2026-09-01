@@ -17,6 +17,8 @@ compile, and export long-form projects.
   formats.
 - Optional Google Drive integration lets a user back up and synchronize Writer
   Studio project files through their own Google Account.
+- Optional Dropbox integration lets a project owner invite editors and readers,
+  synchronize shared project data, change collaborator roles, and revoke access.
 - Optional Pro subscriptions are purchased and managed through the applicable
   app store.
 - Writer Studio can prepare copy-ready prompts for use with an external AI
@@ -32,6 +34,22 @@ Studio, rather than all files in the user's Drive.
 
 Users can disconnect Google Drive from Writer Studio and can revoke the app's
 Google Account access at any time from their Google Account settings.
+
+## Dropbox collaboration access
+
+Dropbox collaboration is optional and starts only after the user explicitly
+chooses **Connect Dropbox** in the Library. Writer Studio uses Dropbox shared
+folders to exchange encrypted project snapshots and collaboration metadata. It
+requests `account_info.read`, `files.metadata.read`, `files.content.read`,
+`files.content.write`, `sharing.read`, and `sharing.write` so it can identify the
+connected account, create and synchronize the project's shared resources,
+invite collaborators, change an editor or reader role, and remove access.
+
+The project owner controls each invitation and can change or revoke a
+collaborator's access from Writer Studio. Users can disconnect Dropbox in the
+app and can revoke the application's authorization from their Dropbox account
+settings. Writer Studio does not connect to or access Dropbox until the user
+initiates the OAuth authorization flow.
 
 ## Support and legal information
 
