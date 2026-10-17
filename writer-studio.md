@@ -7,7 +7,7 @@ permalink: /writer-studio/
 # Writer Studio
 
 Writer Studio is a local-first writing and document-production application for
-Android and macOS. It helps professional writers plan, draft, revise, organize,
+Android. It helps professional writers plan, draft, revise, organize,
 compile, and export long-form projects.
 
 ## How the app works
@@ -34,12 +34,16 @@ Studio, rather than all files in the user's Drive.
 
 Users can disconnect Google Drive from Writer Studio and can revoke the app's
 Google Account access at any time from their Google Account settings.
+When enabled, project safety copies can synchronize automatically after saves.
+The [Privacy Policy, section 4.2.1](https://hafych.github.io/#writer-studio-google-data)
+explains the Google account data, project data, uses, storage and deletion controls.
 
 ## Dropbox collaboration access
 
 Dropbox collaboration is optional and starts only after the user explicitly
 chooses **Connect Dropbox** in the Library. Writer Studio uses Dropbox shared
-folders to exchange encrypted project snapshots and collaboration metadata. It
+folders to exchange project snapshots, manuscript changes, comments and
+collaboration metadata. It
 requests `account_info.read`, `files.metadata.read`, `files.content.read`,
 `files.content.write`, `sharing.read`, and `sharing.write` so it can identify the
 connected account, create and synchronize the project's shared resources,
@@ -51,11 +55,20 @@ app and can revoke the application's authorization from their Dropbox account
 settings. Writer Studio does not connect to or access Dropbox until the user
 initiates the OAuth authorization flow.
 
+The integration requires Full Dropbox access because Dropbox's shared-folder
+APIs do not support App Folder access. This permission technically allows access
+across the connected account; the app directs project operations to its created
+or joined project resources. Optional recovery also uses a separate
+`/.writer-studio` folder. Snapshot encryption does not encrypt every JSON
+collaboration sidecar. Read the
+[Privacy Policy, sections 4.2.2 and 4.2.3](https://hafych.github.io/#writer-studio-dropbox-data)
+for transferred data, participant access, credential storage and deletion controls.
+
 ## Support and legal information
 
-- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.3,
-  effective 29 July 2026
-- [Terms of Use](https://hafych.github.io/#terms-of-use) — Version 1.3,
+- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.5,
+  effective 17 October 2026
+- [Terms of Use](https://hafych.github.io/#terms-of-use) — Version 1.4,
   effective 29 July 2026
 - [Business-to-Business Data Processing Addendum](https://hafych.github.io/dpa/)
 - Support: [nazariihafych@gmail.com](mailto:nazariihafych@gmail.com)
