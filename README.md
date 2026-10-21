@@ -6,7 +6,7 @@ permalink: /
 
 # HAFYCH Legal Documents
 
-**Privacy Policy and Technical Schedule: Version 1.5 — Last Updated and Effective: 17 October 2026**
+**Privacy Policy and Technical Schedule: Version 1.7 — Last Updated and Effective: 21 October 2026**
 
 **Terms of Use: Version 1.4 — Last Updated and Effective: 29 July 2026**
 
@@ -589,7 +589,7 @@ If an Apple-distributed App fails to conform to a warranty that cannot be discla
 
 # PRIVACY POLICY
 
-*Version 1.5 — Last Updated: 17 October 2026  |  Effective Date: 17 October 2026*
+*Version 1.7 — Last Updated: 21 October 2026  |  Effective Date: 21 October 2026*
 
 > **SUMMARY: HAFYCH DOES NOT CURRENTLY OFFER A HAFYCH USER ACCOUNT OR CONTENT-STORAGE SERVICE FOR ORDINARY USER CONTENT. OPTIONAL CLOUD FEATURES SEND DATA DIRECTLY TO THE USER'S SELECTED PROVIDER. WRITER STUDIO CAN CONTINUE SYNCHRONIZING AFTER THE USER ENABLES SYNC; COLLABORATION SHARES PROJECT DATA WITH INVITED PARTICIPANTS. REVENUECAT AND APP STORES PROCESS PURCHASE AND ENTITLEMENT DATA. HAFYCH MAY PROCESS SUPPORT EMAILS AND LIMITED PURCHASE INFORMATION AVAILABLE THROUGH PROVIDER DASHBOARDS.**
 
@@ -661,6 +661,8 @@ Writer Studio for Android, package `com.writerstudio`, is a local-first writing 
 
 The only Drive permission requested is `https://www.googleapis.com/auth/drive.file`. It allows the app to create and manage project files created with the app or otherwise explicitly made available to it within that authorization. Writer Studio does not request unrestricted access to all files in your Drive, Gmail, contacts, or calendar. The app can upload, list, download, restore, and update its project backups and related project files. These files can contain manuscript text, project structure, notes, attachments and other material included in the project, together with file names, identifiers, revisions, modification times, and synchronization information.
 
+Ordinary Google Drive safety copies are portable `.writer` ZIP archives containing readable project text and included attachments. Writer Studio does not apply client-side encryption to these archives before uploading them. A person who obtains the archive through access to your Drive files can read its contents without the app's local project key or a recovery secret. Local project encryption does not extend to these cloud archives. Transfers use HTTPS; transport security and the provider's own storage protection are separate from encryption by Writer Studio. Section 4.2.4 explains the separate local and recovery protections.
+
 Connecting and enabling Google Drive can enable automatic safety copies on save. Once enabled, synchronization may continue when you edit or save a project; each subsequent transfer does not require another consent prompt. You can control the feature in the app's cloud synchronization settings or disconnect Google Drive. New shared-writing sessions in the current Android interface use Dropbox; Google Drive provides the owner's project safety copies.
 
 Google API data is used to provide the user-facing account, backup, restore, and synchronization functions described here. It is not sold, used for advertising or data brokerage, or used to develop or train generalized AI or machine-learning models. It is not sent to RevenueCat. Writer Studio uses Google API data in accordance with the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including its Limited Use requirements. HAFYCH does not routinely view your Google Drive files; if you voluntarily send a file to support, that separate support communication is handled as described in Section 4.5.
@@ -677,7 +679,7 @@ The requested scopes are `account_info.read` for account identity, quota and con
 
 The Dropbox application uses **Full Dropbox** access because the shared-folder APIs used for collaboration do not support App Folder access. This permission technically permits access across the connected Dropbox account. The app's implemented project operations address its created or joined project resources; this is an application behavior, not a Dropbox-enforced restriction to a single project folder. Optional recovery also uses `/.writer-studio/key-escrow-<deviceId>.json` in your Dropbox. If you use key recovery, these files contain passphrase-encrypted recovery envelopes for project-vault keys, together with recovery format and device-related metadata. Recovery files are separate from shared-project folders.
 
-Project snapshots use the app's project encryption where applicable. That does not make every collaboration file end-to-end encrypted: JSON sidecar files can contain readable manuscript edits and comments, and names, identifiers, membership and activity metadata remain available to the provider and people with the relevant file access. Do not rely on snapshot encryption to conceal all collaboration data from Dropbox or authorized participants.
+Writer Studio does not apply client-side encryption to ordinary project snapshots uploaded to Dropbox. These `.writer` files are ZIP archives containing readable project text and included attachments. Collaboration JSON files contain readable manuscript edits, comments, presence and activity records, and related metadata. Dropbox and people with the relevant file access can read this content without the app's local project key or a recovery secret. These cloud project and collaboration files are not end-to-end encrypted by Writer Studio. Transfers use HTTPS; transport security and the provider's own storage protection are separate from encryption by Writer Studio. Signatures used to verify collaboration data do not conceal its contents. Section 4.2.4 explains the separate local and recovery protections.
 
 <a id="writer-studio-cloud-controls"></a>
 
@@ -688,6 +690,16 @@ Project data and cloud references can be retained locally on your device and in 
 To stop future transfers, disable the relevant synchronization feature or disconnect the provider in the app. Dropbox disconnection clears the app's saved connection and attempts to revoke its token; you can independently revoke authorization in your [Dropbox connected-app settings](https://www.dropbox.com/account/connected_apps). You can revoke Google authorization in your [Google Account connections](https://myaccount.google.com/connections). Signing out, revoking authorization, or uninstalling the app does not automatically delete cloud backups, recovery envelopes, exports, or copies already downloaded by collaborators.
 
 Delete local projects and exports through the app or device controls, and delete provider files, shared folders and recovery files through the relevant provider. Dropbox and Google can retain revisions, deleted items or other records under their own policies. Removing a collaborator prevents future access under the updated permissions; it cannot erase copies they already obtained. HAFYCH cannot remotely delete files it does not possess or control. For support or other personal data held by HAFYCH, use the deletion-request procedure in Section 9.1.
+
+<a id="writer-studio-encryption-recovery"></a>
+
+#### 4.2.4 Writer Studio local encryption and recovery
+
+On Android, Writer Studio encrypts local project files and their locally stored attachments using project keys kept in protected device storage. This protection applies to local storage. Ordinary `.writer` project exports and the Google Drive and Dropbox project files described above are separate, readable formats; local encryption does not make those files end-to-end encrypted.
+
+An explicitly exported `.writer-recovery` bundle is encrypted with a separate recovery secret shown during export. It contains the project's state at the time of export and does not update automatically with later edits. To open that encrypted bundle, you need both the file and its matching recovery secret. Keep the secret separately from the file.
+
+Optional key backup encrypts project-vault keys with a user-chosen passphrase before saving recovery envelopes to the available recovery stores, which can include a local recovery file, Google Block Store and Dropbox. Google Block Store is a separate recovery service, not the Google Drive project-backup feature. These envelopes contain keys, not a backup of the manuscript. Restoring them requires an available previously saved envelope and the matching passphrase. Losing the required keys, recovery secret or passphrase can prevent access to the corresponding encrypted data.
 
 ### 4.3 RevenueCat Subscription and Entitlement Data
 
@@ -859,7 +871,7 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 
 # CURRENT TECHNICAL AND PRIVACY SCHEDULE
 
-*Version 1.5 — Updated 17 October 2026 for Writer Studio Android cloud data flows. Other provider statements retain their stated scope and dates.*
+*Version 1.7 — Updated 21 October 2026 to clarify Writer Studio local encryption, readable Google Drive and Dropbox project transfers, encrypted recovery exports and key-recovery envelopes. Other provider statements retain their stated scope and dates.*
 
 > **This Schedule is a factual supplement to the Privacy Policy. It does not claim that every HAFYCH App uses every optional feature. A released App’s store declaration and permission prompts must be narrower and exact for that package and version.**
 
@@ -890,9 +902,9 @@ HAFYCH may update this Policy to reflect an App, provider, law, store requiremen
 | **Data flow** | **Data involved** | **Destination / access** | **Purpose** | **Control / deletion** |
 | --- | --- | --- | --- | --- |
 | Local App use | User-selected content, settings, local metadata, files depending on App | Device and operating-system storage; HAFYCH does not receive ordinary content | Provide the selected App function | User deletes through App/device; uninstall may not delete exports or backups |
-| Google Drive | Connected account email, identifier and profile when supplied; project content, names, file identifiers, revisions, timestamps, authorization and sync information | Directly between app/device and Google Drive within `drive.file`; no HAFYCH content server | Writer Studio backup, restore and enabled automatic project safety copies; AllPDF user-confirmed result transfers | User disables sync or disconnects, revokes Google authorization and deletes local/provider copies; see Privacy Policy 4.2.1 and 4.2.3 |
+| Google Drive | Connected account email, identifier and profile when supplied; readable project archives without Writer Studio client-side encryption; names, file identifiers, revisions, timestamps, authorization and sync information | Directly between app/device and Google Drive within `drive.file`; no HAFYCH content server | Writer Studio backup, restore and enabled automatic project safety copies; AllPDF user-confirmed result transfers | User disables sync or disconnects, revokes Google authorization and deletes local/provider copies; see Privacy Policy 4.2.1 and 4.2.3 |
 | Dropbox for AllPDF | A result file selected for upload, its name and transfer metadata, authorization and error information | Directly to Dropbox after the user selects Dropbox and confirms the transfer; no HAFYCH content server | Save a completed AllPDF result at the user's request | User disconnects the provider and deletes the file through Dropbox |
-| Dropbox for Writer Studio Android | Account/profile and quota information; collaborator emails, identifiers and roles; project snapshots, manuscript edits, comments, presence/activity and file metadata; optional encrypted recovery envelopes | Directly between app/device, Dropbox and authorized participants; Full Dropbox permission with application-selected project/recovery paths; no HAFYCH content server | Shared writing, invitations, role management, ongoing sync and optional key recovery | User disables sync/disconnects, revokes Dropbox authorization, manages membership and deletes files; downloaded copies and provider history can remain; see Privacy Policy 4.2.2 and 4.2.3 |
+| Dropbox for Writer Studio Android | Account/profile and quota information; collaborator emails, identifiers and roles; readable project snapshots, manuscript edits, comments, presence/activity and file metadata without Writer Studio client-side encryption; optional passphrase-encrypted key-recovery envelopes | Directly between app/device, Dropbox and authorized participants; Full Dropbox permission with application-selected project/recovery paths; no HAFYCH content server | Shared writing, invitations, role management, ongoing sync and optional key recovery | User disables sync/disconnects, revokes Dropbox authorization, manages membership and deletes files; downloaded copies and provider history can remain; see Privacy Policy 4.2.2 and 4.2.3 |
 | User-selected folder / operating-system file provider | Selected file contents, names, identifiers, metadata and sync information where the operating system exposes the folder | Directly through the device and selected provider; an Apple-selected folder may be backed by iCloud Drive; no HAFYCH content server | Open, save, import, export, or sync as selected by the user | User manages the folder and provider through operating-system/provider controls |
 | AllPDF AI request | A bounded amount of extracted text, provider/host, request parameters and technical error information; the PDF itself is not sent by this flow | OpenAI, Anthropic, or the OpenAI-compatible host selected by the user, only after document-specific confirmation | Perform the specific AI action requested by the user | User controls the provider account and provider-side deletion/retention; HAFYCH has no copy on an HAFYCH backend |
 | RevenueCat | App User ID; purchase history; product, transaction, subscription, trial, entitlement, refund and status information; app/platform/locale metadata | RevenueCat systems; HAFYCH may view dashboard data | Purchase validation, entitlements, fraud prevention, subscription analytics, support | Request through HAFYCH where record can be identified; provider and store retention may continue |
