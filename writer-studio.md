@@ -38,6 +38,11 @@ When enabled, project safety copies can synchronize automatically after saves.
 The [Privacy Policy, section 4.2.1](https://hafych.github.io/#writer-studio-google-data)
 explains the Google account data, project data, uses, storage and deletion controls.
 
+Ordinary Google Drive safety copies are readable `.writer` ZIP archives. Writer
+Studio does not encrypt these archives before uploading them; anyone with access
+to a downloaded archive can read the included text and attachments without the
+app's local project key or a recovery secret.
+
 ## Dropbox collaboration access
 
 Dropbox collaboration is optional and starts only after the user explicitly
@@ -59,15 +64,37 @@ The integration requires Full Dropbox access because Dropbox's shared-folder
 APIs do not support App Folder access. This permission technically allows access
 across the connected account; the app directs project operations to its created
 or joined project resources. Optional recovery also uses a separate
-`/.writer-studio` folder. Snapshot encryption does not encrypt every JSON
-collaboration sidecar. Read the
+`/.writer-studio` folder for passphrase-encrypted key-recovery envelopes.
+
+Ordinary Dropbox project snapshots, manuscript edits and comments are not
+encrypted by Writer Studio before uploading them. The snapshot ZIP archives and
+collaboration JSON files contain readable content; Dropbox and people with the
+relevant file access can read it without the app's local project key or a recovery
+secret. Read the
 [Privacy Policy, sections 4.2.2 and 4.2.3](https://hafych.github.io/#writer-studio-dropbox-data)
 for transferred data, participant access, credential storage and deletion controls.
 
+## Encryption and recovery
+
+- On Android, local project files and their locally stored attachments are
+  encrypted using project keys kept in protected device storage. This local
+  protection does not encrypt ordinary cloud archives or collaboration files.
+- An explicitly exported `.writer-recovery` bundle is encrypted with a separate
+  recovery secret. It is a snapshot at export time, not an automatically updated
+  backup. Keep both the bundle and its matching secret, stored separately.
+- Optional key backup protects project keys with a user-chosen passphrase. Its
+  recovery envelopes contain keys, not manuscript backups; restoration requires
+  a previously saved available envelope and the matching passphrase.
+
+See the [Privacy Policy, section 4.2.4](https://hafych.github.io/#writer-studio-encryption-recovery)
+for local encryption and recovery details. Ordinary cloud files are not
+end-to-end encrypted by Writer Studio. HTTPS and the provider's own storage
+protection are separate from these application encryption mechanisms.
+
 ## Support and legal information
 
-- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.5,
-  effective 17 October 2026
+- [Privacy Policy](https://hafych.github.io/#privacy-policy) — Version 1.7,
+  effective 21 October 2026
 - [Terms of Use](https://hafych.github.io/#terms-of-use) — Version 1.4,
   effective 29 July 2026
 - [Business-to-Business Data Processing Addendum](https://hafych.github.io/dpa/)
